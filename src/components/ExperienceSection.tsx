@@ -49,7 +49,7 @@ const ExperienceSection = () => {
             <div className="absolute top-0 left-0 z-10 bg-white rounded-lg shadow-xl p-6 w-64 border border-gray-100">
               <div className="flex items-center justify-between mb-4">
                 <div className="text-sm font-serif italic text-gray-800">
-                  Supreme<br/>Limousines
+                  LGA<br/>CarService
                 </div>
                 <div className="flex items-center text-blue-600">
                   <Star size={16} fill="currentColor" />

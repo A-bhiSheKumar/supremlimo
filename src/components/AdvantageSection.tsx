@@ -8,9 +8,9 @@ const AdvantageSection = () => {
   ];
 
   const images = [
-    "https://supreme.limo/wp-content/uploads/2025/08/2A415361-C76E-4AD0-8515-81C7D4F29DEA-2048x1536.jpeg", // Fleet lineup - top left
+    "https://luxyride.com/_next/image?url=https%3A%2F%2Fwealthy-ants-ba476bfe7f.media.strapiapp.com%2FWhat_is_the_Difference_Between_a_Limo_and_a_Limousine_f287b2102e.jpg&w=1200&q=75", // Fleet lineup - top left
     "https://supreme.limo/wp-content/uploads/2025/08/IMG_5534-2048x1536.jpg", // JW Marriott van - bottom left (larger)
-    "https://supreme.limo/wp-content/uploads/2025/04/chauffeur-vancouver.jpg", // Chauffeur with SUV - top right (larger)
+    "https://www.shutterstock.com/image-photo/caucasian-middle-aged-man-standing-600nw-2701743347.jpg", // Chauffeur with SUV - top right (larger)
     "https://supreme.limo/wp-content/uploads/2024/07/CB5EAF30-3B92-4F7D-B60D-A7ACE444345B-2048x1536.jpg", // Private jet - bottom right
   ];
 
