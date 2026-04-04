@@ -77,15 +77,14 @@ const Navbar = () => {
       <nav className="bg-white shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-20">
-            {/* Logo */}
+            {/* Logo - Fixed size to match screenshot */}
             <div className="flex-shrink-0">
-              <a href="#" className="flex flex-col items-center">
-                <div className="text-2xl font-serif italic text-gray-800">
-                  Supreme <span className="text-blue-600">Limousines</span>
-                </div>
-                <div className="text-xs text-gray-600 tracking-wider uppercase text-[10px]">
-                  & Chauffeur Services
-                </div>
+              <a href="#" className="block">
+                <img 
+                  src='https://supreme.limo/wp-content/uploads/2023/01/cropped-supreme_logo__1_-removebg-preview.png.webp' 
+                  alt="Supreme Limo Logo" 
+                  className="h-14 w-auto object-contain"
+                />
               </a>
             </div>
 
@@ -95,19 +94,19 @@ const Navbar = () => {
                 <a
                   key={link.name}
                   href={link.href}
-                  className={`flex items-center text-sm font-medium transition-colors ${
+                  className={`flex items-center text-[15px] font-medium transition-colors ${
                     link.active
-                      ? 'text-blue-600 border-b-2 border-blue-600 pb-1'
+                      ? 'text-blue-600 border-b-2 border-blue-600 pb-0.5'
                       : 'text-gray-700 hover:text-blue-600'
                   }`}
                 >
                   {link.name}
                   {link.hasDropdown && (
-                    <ChevronDown size={16} className="ml-1" />
+                    <ChevronDown size={14} className="ml-1" />
                   )}
                 </a>
               ))}
-              <button className="bg-blue-600 text-white px-6 py-2.5 rounded font-medium hover:bg-blue-700 transition-colors ml-4">
+              <button className="bg-blue-600 text-white px-8 py-2.5 rounded text-[15px] font-medium hover:bg-blue-700 transition-colors ml-4">
                 Login
               </button>
             </div>

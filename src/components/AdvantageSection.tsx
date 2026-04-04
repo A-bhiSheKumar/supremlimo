@@ -7,55 +7,93 @@ const AdvantageSection = () => {
     'Premium Fleet Options',
   ];
 
+  const images = [
+    "https://supreme.limo/wp-content/uploads/2025/08/2A415361-C76E-4AD0-8515-81C7D4F29DEA-2048x1536.jpeg", // Fleet lineup - top left
+    "https://supreme.limo/wp-content/uploads/2025/08/IMG_5534-2048x1536.jpg", // JW Marriott van - bottom left (larger)
+    "https://supreme.limo/wp-content/uploads/2025/04/chauffeur-vancouver.jpg", // Chauffeur with SUV - top right (larger)
+    "https://supreme.limo/wp-content/uploads/2024/07/CB5EAF30-3B92-4F7D-B60D-A7ACE444345B-2048x1536.jpg", // Private jet - bottom right
+  ];
+
   return (
     <section className="py-16 lg:py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-start">
-          {/* Left - Image Grid - Exact layout from screenshot */}
-          <div className="grid grid-cols-2 gap-3 h-[500px] lg:h-[600px]">
-            {/* Left Column - 2 stacked images */}
+
+          {/* LEFT - Image Grid - Exact layout from screenshot */}
+          <div className="grid grid-cols-2 gap-3 h-[480px] lg:h-[580px]">
+            
+            {/* Left Column */}
             <div className="flex flex-col gap-3 h-full">
-              {/* Top Left */}
-              <div className="flex-1 overflow-hidden rounded-lg bg-gray-100">
+              {/* Top Left - Smaller */}
+              <div className="flex-[0.85] rounded-lg overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1563720223185-11003d516935?w=600&h=400&fit=crop"
-                  alt="Fleet lineup"
+                  src={images[0]}
+                  alt="VIP Chauffeured Transportation"
                   className="w-full h-full object-cover"
                 />
               </div>
-              {/* Bottom Left - Taller */}
-              <div className="flex-[1.3] overflow-hidden rounded-lg bg-gray-100">
+              {/* Bottom Left - Larger (Van at JW Marriott) */}
+              <div className="flex-[1.15] rounded-lg overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=600&h=500&fit=crop"
+                  src={images[1]}
                   alt="Luxury van at JW Marriott"
                   className="w-full h-full object-cover"
                 />
               </div>
             </div>
-            
-            {/* Right Column - Tall image spans full height */}
-            <div className="row-span-1 h-full overflow-hidden rounded-lg bg-gray-100">
-              <img
-                src="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=600&h=800&fit=crop"
-                alt="Chauffeur with SUV"
-                className="w-full h-full object-cover object-center"
-              />
+
+            {/* Right Column */}
+            <div className="flex flex-col gap-3 h-full">
+              {/* Top Right - Larger (Chauffeur with SUV) */}
+              <div className="flex-[1.15] rounded-lg overflow-hidden">
+                <img
+                  src={images[2]}
+                  alt="Professional chauffeur with SUV"
+                  className="w-full h-full object-cover"
+                />
+              </div>
+              {/* Bottom Right - Smaller (Private jet) */}
+              <div className="flex-[0.85] rounded-lg overflow-hidden">
+                <img
+                  src={images[3]}
+                  alt="Private jet transfer"
+                  className="w-full h-full object-cover"
+                />
+              </div>
             </div>
+
           </div>
 
-          {/* Right - Content */}
+          {/* RIGHT - Content */}
           <div className="lg:pt-4">
-            <h2 className="text-[2.75rem] lg:text-[3.5rem] xl:text-[4rem] font-bold text-[#1e3a5f] leading-[1.1] mb-8 lg:mb-10">
-              The Supreme<br />
-              Advantage
+            <h2
+              className="text-[2.5rem] lg:text-[3.25rem] xl:text-[3.75rem] font-bold leading-[1.05] mb-8"
+              style={{ color: "#1e3a5f" }}
+            >
+              The Supreme<br />Advantage
             </h2>
-            
+
             <ul className="space-y-4">
               {advantages.map((item, index) => (
-                <li key={index} className="flex items-center text-base lg:text-lg text-[#1e3a5f] font-medium">
-                  <span className="flex-shrink-0 w-6 h-6 rounded-full bg-blue-100 flex items-center justify-center mr-4">
-                    <svg className="w-3.5 h-3.5 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={3}>
-                      <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+                <li
+                  key={index}
+                  className="flex items-center text-base lg:text-[17px] font-medium"
+                  style={{ color: "#1e3a5f" }}
+                >
+                  <span className="flex-shrink-0 w-5 h-5 rounded-full bg-blue-100 flex items-center justify-center mr-3">
+                    <svg
+                      className="w-3 h-3"
+                      style={{ color: "#2563eb" }}
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      stroke="currentColor"
+                      strokeWidth={3}
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M5 13l4 4L19 7"
+                      />
                     </svg>
                   </span>
                   {item}
@@ -63,6 +101,7 @@ const AdvantageSection = () => {
               ))}
             </ul>
           </div>
+
         </div>
       </div>
     </section>
