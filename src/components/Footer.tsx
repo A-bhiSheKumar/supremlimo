@@ -45,7 +45,7 @@ const Footer = () => {
         {/* LEFT COLUMN */}
         <div>
           <h3 className="text-2xl font-semibold leading-snug">
-            Supreme Limousine & <br /> Chauffeur Services
+            LGA Car Service & <br /> Chauffeur Services
           </h3>
 
           <p className="text-gray-400 mt-2 mb-6 text-sm">
@@ -85,7 +85,7 @@ const Footer = () => {
               </div>
               <div>
                 <p className="text-gray-400 text-xs">Email</p>
-                <p className="text-white">info@supremelimo.ca</p>
+                <p className="text-white">info@lgacarservice.ca</p>
               </div>
             </div>
 
@@ -191,7 +191,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <p>
-          Copyright © 2025 Supreme Limousine & Chauffeur Service Ltd.
+          Copyright © 2025 LGA Car Service & Chauffeur Service Ltd.
         </p>
       </div>
     </footer>

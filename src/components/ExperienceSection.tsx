@@ -17,7 +17,7 @@ const ExperienceSection = () => {
             
             <div className="space-y-4 text-gray-700 leading-relaxed">
               <p>
-                Supreme Limousine & Chauffeur Service is your premier choice for luxury transportation, 
+                LGA Car Service is your premier choice for luxury transportation, 
                 private car service, and chauffeur-driven travel. Serving Vancouver,{' '}
                 <a href="#" className="text-primary hover:underline">Calgary</a>,{' '}
                 <a href="#" className="text-primary hover:underline">Toronto</a>, Montreal, and beyond, 
@@ -37,7 +37,7 @@ const ExperienceSection = () => {
               </p>
               
               <p>
-                Trust Supreme Limousine to redefine chauffeur service in Vancouver — where professionalism, 
+                Trust LGA Car Service to redefine chauffeur service in Vancouver — where professionalism, 
                 discretion, and five-star service come together to exceed your expectations.
               </p>
             </div>

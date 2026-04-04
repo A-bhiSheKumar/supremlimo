@@ -17,7 +17,7 @@ const Hero = () => {
           Welcome to
         </p>
         <h1 className="text-white text-3xl md:text-5xl lg:text-[3.5rem] font-bold mb-1 max-w-4xl leading-tight">
-          Supreme Limousine & Chauffeur
+          LGA Car Service & Chauffeur
         </h1>
         <h2 className="text-white text-3xl md:text-5xl lg:text-[3.5rem] font-bold mb-8">
           Service

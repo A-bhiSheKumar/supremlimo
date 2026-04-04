@@ -61,9 +61,9 @@ const Navbar = () => {
             </div>
             
             {/* Contact Info */}
-            <a href="mailto:info@supremelimo.ca" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="mailto:info@lgacarservice.ca" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
               <Mail size={16} className="mr-2" />
-              info@supremelimo.ca
+              info@lgacarservice.ca
             </a>
             <a href="tel:+1-800-000-0000" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
               <Phone size={16} className="mr-2" />
@@ -81,7 +81,7 @@ const Navbar = () => {
             <div className="flex-shrink-0">
               <a href="#" className="block">
                 <img 
-                  src='https://supreme.limo/wp-content/uploads/2023/01/cropped-supreme_logo__1_-removebg-preview.png.webp' 
+                  src='https://thumbs.dreamstime.com/b/demo-demo-icon-139882881.jpg' 
                   alt="Supreme Limo Logo" 
                   className="h-14 w-auto object-contain"
                 />

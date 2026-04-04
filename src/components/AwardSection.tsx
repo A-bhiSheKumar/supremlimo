@@ -39,7 +39,7 @@ const AwardSection = () => {
               </h2>
 
               <p className="text-gray-600 text-[15px] lg:text-[16px] leading-relaxed">
-                At Supreme Limousine, we go beyond transportation — we deliver an elevated
+                At LGA Car Service, we go beyond transportation — we deliver an elevated
                 travel experience defined by precision, professionalism, and personalized
                 service. Every ride is managed with care, ensuring punctuality, comfort,
                 and complete peace of mind. Recognized with over 200 five-star Google
