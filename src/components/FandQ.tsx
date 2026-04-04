@@ -1,4 +1,4 @@
-import  { useState } from "react";
+import { useState } from "react";
 
 const faqData = [
   {
@@ -37,9 +37,9 @@ const faqData = [
 ];
 
 const FandQ = () => {
-  const [openIndex, setOpenIndex] = useState(null);
+  const [openIndex, setOpenIndex] = useState<number | null>(null);
 
-  const toggle = (index) => {
+  const toggle = (index: number) => {
     setOpenIndex(openIndex === index ? null : index);
   };
 
@@ -50,11 +50,8 @@ const FandQ = () => {
       </h2>
 
       <div className="grid md:grid-cols-2 gap-10 max-w-6xl mx-auto">
-        {faqData.map((item, index) => (
-          <div
-            key={index}
-            className="border-b border-gray-200 pb-4"
-          >
+        {faqData.map((item, index: number) => (
+          <div key={index} className="border-b border-gray-200 pb-4">
             <button
               onClick={() => toggle(index)}
               className="w-full flex justify-between items-center text-left py-4"
