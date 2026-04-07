@@ -22,7 +22,7 @@ const TravelToSeattle = () => {
             <div className="w-24 h-1 bg-blue-600 my-6" />
 
             <p className="text-white/90 text-lg mb-8 max-w-xl leading-relaxed">
-              Limousine Service | Private Transfers | Chauffeur-Driven Door to Door Comfort
+              LGA Car Services | Private Transfers | Chauffeur-Driven Door to Door Comfort
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
@@ -49,7 +49,7 @@ const TravelToSeattle = () => {
               Vancouver to Seattle Limo & Car Service | Private Transfers
             </h3>
             <p className="text-gray-600 leading-relaxed text-lg">
-              Supreme Limousine offers premium limousine service from Vancouver to Seattle, delivering the ultimate in luxury, comfort, and reliability. Whether you're booking a private transfer from Vancouver to Seattle for business or leisure, our skilled chauffeurs ensure a smooth and stylish ride. Experience top-tier cross-border transportation from Vancouver to Seattle with our fleet of high-end vehicles. Each private car service is tailored to meet your travel needs, providing a dependable and elegant solution for your journey. Trust Supreme Limo for your next Vancouver to Seattle executive car service—where excellence meets the open road.
+              Supreme Limousine offers premium LGA Car Services from Vancouver to Seattle, delivering the ultimate in luxury, comfort, and reliability. Whether you're booking a private transfer from Vancouver to Seattle for business or leisure, our skilled chauffeurs ensure a smooth and stylish ride. Experience top-tier cross-border transportation from Vancouver to Seattle with our fleet of high-end vehicles. Each private car service is tailored to meet your travel needs, providing a dependable and elegant solution for your journey. Trust Supreme Limo for your next Vancouver to Seattle executive car service—where excellence meets the open road.
             </p>
           </div>
           <div>
@@ -80,7 +80,7 @@ const TravelToSeattle = () => {
               <a href="#" className="text-blue-600 hover:underline">Supreme Limousine</a> offers seamless private transfers between Vancouver and Seattle with our exclusive black car service. Whether you're flying into <a href="#" className="text-blue-600 hover:underline">SeaTac Airport</a> in Seattle or arriving in Vancouver for a <a href="#" className="text-blue-600 hover:underline">cruise</a>, we have the ideal solution for your private transportation needs. Select from our diverse <a href="#" className="text-blue-600 hover:underline">fleet of high end sedans, spacious and roomy SUVs and 14 passenger Sprinter Vans</a> for an elegant and comfortable ride. You can rely on us for your transportation needs and to provide an elegant and knowledgeable travel experience, guaranteeing a seamless and pleasurable cross-border journey.
             </p>
             <p className="text-gray-600 leading-relaxed text-lg mb-4">
-              Whether you're attending a business meeting or commemorating a special occasion, our luxury car service ensures that you travel in style. Our chauffeured service offers a sophisticated and seamless link between Vancouver and Seattle, making it ideal for business travels. Get in touch with our team to <a href="#" className="text-blue-600 hover:underline">reserve your limousine service</a> now.
+              Whether you're attending a business meeting or commemorating a special occasion, our luxury car service ensures that you travel in style. Our chauffeured service offers a sophisticated and seamless link between Vancouver and Seattle, making it ideal for business travels. Get in touch with our team to <a href="#" className="text-blue-600 hover:underline">reserve your LGA Car Services</a> now.
             </p>
           </div>
         </div>
@@ -134,7 +134,7 @@ const TravelToSeattle = () => {
               Are you traveling from <a href="#" className="text-blue-600 hover:underline">Vancouver Airport (YVR)</a> to <a href="#" className="text-blue-600 hover:underline">Seattle-Tacoma International Airport (SEA)</a> or <a href="#" className="text-blue-600 hover:underline">Bellingham Airport (BLI)</a>? With our excellent <a href="#" className="text-blue-600 hover:underline">airport transfer services</a>, you may travel in unmatched luxury and efficiency. Our service guarantees a smooth trip whether you're taking a short trip to Bellingham or flying into SEA.
             </p>
             <p className="text-gray-600 leading-relaxed text-lg mb-6">
-              At Supreme Limo, we understand that every journey is unique. Whether it's for a personal trip, a corporate retreat, or a special event, we offer customized solutions to meet your specific requirements. You deserve the best, and our limousine services provide the reliability, elegance and grandeur that your special day demands. Impress clients and colleagues alike with our <a href="#" className="text-blue-600 hover:underline">corporate transportation solutions</a>, ensuring you arrive in style and make a lasting impression that reflects your professionalism.
+              At Supreme Limo, we understand that every journey is unique. Whether it's for a personal trip, a corporate retreat, or a special event, we offer customized solutions to meet your specific requirements. You deserve the best, and our LGA Car Services provide the reliability, elegance and grandeur that your special day demands. Impress clients and colleagues alike with our <a href="#" className="text-blue-600 hover:underline">corporate transportation solutions</a>, ensuring you arrive in style and make a lasting impression that reflects your professionalism.
             </p>
             <a href="#" className="text-blue-600 hover:underline text-lg font-medium">
               Book your Airport Transfer with us now.

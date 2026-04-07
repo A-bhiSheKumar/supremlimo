@@ -24,7 +24,7 @@ const AirportTransferServices = () => {
             </h1>
             <div className="w-20 h-1 bg-blue-600 mb-6"></div>
             <p className="text-lg md:text-xl text-white/90 mb-8">
-              Limousine Service | Private Transfers | Chauffeur-Driven Door to Door Comfort
+              LGA Car Services | Private Transfers | Chauffeur-Driven Door to Door Comfort
             </p>
             <div className="flex flex-wrap gap-4">
               <button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded font-medium transition-all duration-300">

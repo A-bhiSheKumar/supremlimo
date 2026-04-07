@@ -50,7 +50,7 @@ const CorporateVipTravel = () => {
             <div className="w-16 h-[2px] bg-white my-6" />
 
             <p className="text-white/80 text-base sm:text-lg mb-8 max-w-xl leading-relaxed">
-              Limousine Service | Private Transfers | Chauffeur-Driven Door to Door Comfort
+              LGA Car Services | Private Transfers | Chauffeur-Driven Door to Door Comfort
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">

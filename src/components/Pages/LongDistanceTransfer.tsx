@@ -21,7 +21,7 @@ const LongDistanceTransfer = () => {
             <div className="w-24 h-1 bg-blue-600 my-6" />
 
             <p className="text-white/90 text-lg mb-8 max-w-xl leading-relaxed">
-              Limousine Service | Private Transfers | Chauffeur-Driven Door to Door Comfort
+              LGA Car Services | Private Transfers | Chauffeur-Driven Door to Door Comfort
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">

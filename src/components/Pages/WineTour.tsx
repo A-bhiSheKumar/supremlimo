@@ -21,7 +21,7 @@ const WineTour = () => {
             <div className="w-16 h-[2px] bg-blue-500 my-6" />
 
             <p className="text-white/80 text-base sm:text-lg mb-8 leading-relaxed">
-              Limousine Service | Private Transfers | Chauffeur-Driven Door to
+              LGA Car Services | Private Transfers | Chauffeur-Driven Door to
               Door Comfort
             </p>
 

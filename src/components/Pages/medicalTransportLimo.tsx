@@ -21,7 +21,7 @@ const MedicalTransportLimo = () => {
             <div className="w-16 h-[2px] bg-blue-500 my-6" />
 
             <p className="text-white/80 text-base sm:text-lg mb-8">
-              Limousine Service | Private Transfers | Chauffeur-Driven Door to Door Comfort
+              LGA Car Services | Private Transfers | Chauffeur-Driven Door to Door Comfort
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
@@ -42,11 +42,11 @@ const MedicalTransportLimo = () => {
 
           {/* TITLE */}
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">
-            Medical Transport Limousine Service in Vancouver, BC
+            Medical Transport LGA Car Services in Vancouver, BC
           </h2>
 
           <p className="text-gray-600 leading-relaxed mb-6">
-            At Supreme Limo, we are committed to providing accessible, comfortable, and reliable transportation for all, including individuals with medical needs. Our Medical Transport Limousine Service in Vancouver, British Columbia, is designed to ensure safe, dignified, and convenient travel for people, whether for medical appointments, therapy sessions, family events, or other outings.
+            At Supreme Limo, we are committed to providing accessible, comfortable, and reliable transportation for all, including individuals with medical needs. Our Medical Transport LGA Car Services in Vancouver, British Columbia, is designed to ensure safe, dignified, and convenient travel for people, whether for medical appointments, therapy sessions, family events, or other outings.
           </p>
 
           <hr className="mb-8" />
@@ -92,11 +92,11 @@ const MedicalTransportLimo = () => {
 
           {/* WHO CAN BENEFIT */}
           <h3 className="text-2xl font-bold mb-4">
-            Who Can Benefit from Our Accessible Limousine Service?
+            Who Can Benefit from Our Accessible LGA Car Services?
           </h3>
 
           <p className="text-gray-600 mb-4">
-            Our Medical Transport Limousine Service serves a wide range of passengers, including but not limited to:
+            Our Medical Transport LGA Car Services serves a wide range of passengers, including but not limited to:
           </p>
 
           <ul className="list-disc pl-6 space-y-2 text-gray-700">
