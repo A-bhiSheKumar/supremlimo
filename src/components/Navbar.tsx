@@ -3,15 +3,46 @@ import { Menu, X, Phone, Mail, ChevronDown } from 'lucide-react';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
+  const [servicesDropdown, setServicesDropdown] = useState(false);
+  const [citiesDropdown, setCitiesDropdown] = useState(false);
 
   const navLinks = [
     { name: 'Home', href: '#', active: true },
-    { name: 'Our Services', href: '#services', hasDropdown: true },
-    { name: 'Our Fleet', href: '#fleet' },
-    { name: 'Cities', href: '#cities', hasDropdown: true },
-    { name: 'Reviews', href: '#reviews' },
-    { name: 'Blog', href: '#blog' },
-    { name: 'Contact', href: '#contact' },
+    { 
+      name: 'Our Services', 
+      href: '#services', 
+      hasDropdown: true,
+      dropdownItems: [
+        { name: 'Airport Transfer Service', href: '/services/airport-transfer' },
+        { name: 'Whistler Transfer Service', href: '/services/whistler-transfer' },
+        { name: 'Cruise Ship Transfers', href: '/services/cruise-ship-transfer' },
+        { name: 'Corporate VIP Travel', href: '/services/corporate-vip-travel' },
+        { name: 'Event Transportation Services', href: '/services/event-transportation-support-services' },
+        { name: 'Sightseeing Tours', href: '/services/sightseeing-tours' },
+        { name: 'Medical Transport Limo', href: '/services/medical-transport-limo' },
+        { name: 'Vancouver to Seattle Transfers', href: '/services/travel-to-seattle' },
+        { name: 'Funeral Transportation Limo Services', href: '/services/funeral-transportation-limo-services' },
+        { name: 'Ferry Terminal Limo Service', href: '/services/ferry-terminal-limo-service' },
+        { name: 'Wine Tour Limo Services', href: '/services/wine-tour-limo-services' },
+        { name: 'Long Distance Transfers', href: '/services/long-distance-transfer' },
+        { name: 'Hourly Services', href: '/services/hourly-services' },
+      ]
+    },
+    { name: 'Our Fleet', href: '/our-fleet' },
+    { 
+      name: 'Cities', 
+      href: '#cities', 
+      hasDropdown: true,
+      dropdownItems: [
+        { name: 'Vancouver', href: '/cities/vancouver' },
+        { name: 'Calgary', href: '/cities/calgary' },
+        { name: 'Toronto', href: '/cities/toronto' },
+        { name: 'Montreal', href: '/cities/montreal' },
+      ]
+    },
+    { name: 'Reviews', href: '/reviews' },
+    { name: 'Blog', href: '/blog' },
+    { name: 'Contact', href: '/contact' },
   ];
 
   // Social SVG Icons
@@ -39,7 +70,7 @@ const Navbar = () => {
   };
 
   return (
-    <header className="w-full">
+    <header className="w-full relative z-50">
       {/* Top Bar */}
       <div className="bg-gray-50 border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -61,9 +92,9 @@ const Navbar = () => {
             </div>
             
             {/* Contact Info */}
-            <a href="mailto:info@lgacarservice.ca" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="mailto:info@supremelimo.ca" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
               <Mail size={16} className="mr-2" />
-              info@lgacarservice.ca
+              info@supremelimo.ca
             </a>
             <a href="tel:+1-800-000-0000" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
               <Phone size={16} className="mr-2" />
@@ -77,9 +108,9 @@ const Navbar = () => {
       <nav className="bg-white shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-20">
-            {/* Logo - Fixed size to match screenshot */}
+            {/* Logo */}
             <div className="flex-shrink-0">
-              <a href="#" className="block">
+              <a href="/" className="block">
                 <img 
                   src='https://thumbs.dreamstime.com/b/demo-demo-icon-139882881.jpg' 
                   alt="Supreme Limo Logo" 
@@ -91,20 +122,65 @@ const Navbar = () => {
             {/* Desktop Navigation */}
             <div className="hidden lg:flex items-center space-x-8">
               {navLinks.map((link) => (
-                <a
-                  key={link.name}
-                  href={link.href}
-                  className={`flex items-center text-[15px] font-medium transition-colors ${
-                    link.active
-                      ? 'text-blue-600 border-b-2 border-blue-600 pb-0.5'
-                      : 'text-gray-700 hover:text-blue-600'
-                  }`}
+                <div 
+                  key={link.name} 
+                  className="relative"
+                  onMouseEnter={() => {
+                    if (link.name === 'Our Services') setServicesDropdown(true);
+                    if (link.name === 'Cities') setCitiesDropdown(true);
+                  }}
+                  onMouseLeave={() => {
+                    if (link.name === 'Our Services') setServicesDropdown(false);
+                    if (link.name === 'Cities') setCitiesDropdown(false);
+                  }}
                 >
-                  {link.name}
-                  {link.hasDropdown && (
-                    <ChevronDown size={14} className="ml-1" />
+                  <a
+                    href={link.href}
+                    className={`flex items-center text-[15px] font-medium transition-colors py-2 ${
+                      link.active
+                        ? 'text-blue-600 border-b-2 border-blue-600'
+                        : 'text-gray-700 hover:text-blue-600'
+                    }`}
+                  >
+                    {link.name}
+                    {link.hasDropdown && (
+                      <ChevronDown size={14} className={`ml-1 transition-transform ${
+                        (link.name === 'Our Services' && servicesDropdown) || 
+                        (link.name === 'Cities' && citiesDropdown) ? 'rotate-180' : ''
+                      }`} />
+                    )}
+                  </a>
+
+                  {/* Services Dropdown */}
+                  {link.name === 'Our Services' && servicesDropdown && (
+                    <div className="absolute top-full left-0 mt-0 w-[320px] bg-white shadow-lg border border-gray-100 py-2 z-50">
+                      {link.dropdownItems?.map((item) => (
+                        <a
+                          key={item.name}
+                          href={item.href}
+                          className="block px-4 py-2.5 text-[14px] text-gray-700 hover:bg-blue-50 hover:text-blue-600 transition-colors"
+                        >
+                          {item.name}
+                        </a>
+                      ))}
+                    </div>
                   )}
-                </a>
+
+                  {/* Cities Dropdown */}
+                  {link.name === 'Cities' && citiesDropdown && (
+                    <div className="absolute top-full left-0 mt-0 w-[200px] bg-white shadow-lg border border-gray-100 py-2 z-50">
+                      {link.dropdownItems?.map((item) => (
+                        <a
+                          key={item.name}
+                          href={item.href}
+                          className="block px-4 py-2.5 text-[14px] text-gray-700 hover:bg-blue-50 hover:text-blue-600 transition-colors"
+                        >
+                          {item.name}
+                        </a>
+                      ))}
+                    </div>
+                  )}
+                </div>
               ))}
               <button className="bg-blue-600 text-white px-8 py-2.5 rounded text-[15px] font-medium hover:bg-blue-700 transition-colors ml-4">
                 Login
@@ -126,17 +202,32 @@ const Navbar = () => {
           <div className="lg:hidden bg-white border-t border-gray-200">
             <div className="px-4 pt-2 pb-4 space-y-1">
               {navLinks.map((link) => (
-                <a
-                  key={link.name}
-                  href={link.href}
-                  className={`block px-3 py-2 rounded-md text-base font-medium ${
-                    link.active
-                      ? 'text-blue-600 bg-blue-50'
-                      : 'text-gray-700 hover:text-blue-600 hover:bg-gray-50'
-                  }`}
-                >
-                  {link.name}
-                </a>
+                <div key={link.name}>
+                  <a
+                    href={link.href}
+                    className={`block px-3 py-2 rounded-md text-base font-medium ${
+                      link.active
+                        ? 'text-blue-600 bg-blue-50'
+                        : 'text-gray-700 hover:text-blue-600 hover:bg-gray-50'
+                    }`}
+                  >
+                    {link.name}
+                  </a>
+                  {/* Mobile Dropdown Items */}
+                  {link.hasDropdown && link.dropdownItems && (
+                    <div className="pl-4 mt-1 space-y-1">
+                      {link.dropdownItems.map((item) => (
+                        <a
+                          key={item.name}
+                          href={item.href}
+                          className="block px-3 py-2 text-sm text-gray-600 hover:text-blue-600"
+                        >
+                          {item.name}
+                        </a>
+                      ))}
+                    </div>
+                  )}
+                </div>
               ))}
               <button className="w-full mt-4 bg-blue-600 text-white py-3 rounded-md font-medium hover:bg-blue-700 transition-colors">
                 Login

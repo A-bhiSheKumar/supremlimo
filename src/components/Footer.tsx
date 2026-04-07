@@ -3,10 +3,11 @@ import {
   Mail,
   MapPin,
 } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <footer className="bg-[#1f232b] text-white relative">
+    <footer className="bg-[#1f232b] text-white relative mt-40">
 
       {/* ===== CTA FLOATING CARD ===== */}
       <div className="max-w-6xl mx-auto px-6 relative -top-24 z-10">
@@ -115,20 +116,44 @@ const Footer = () => {
 
           <ul className="space-y-4 text-gray-300 text-sm">
             {[
-              "Airport Transfer",
-              "Cruise Ship Transfer",
-              "Whistler Transfer",
-              "Corporate VIP Travel",
-              "Long Distance Transfer",
-              "Hourly - As Directed Service",
+              {
+                name: "Airport Transfer",
+                path: "/services/airport-transfer",
+              },
+              {
+                name: "Cruise Ship Transfer",
+                path: "/services/cruise-ship-transfer",
+              },
+              {
+                name: "Whistler Transfer",
+                path: "/services/whistler-transfer",
+              },
+              {
+                name: "Corporate VIP Travel",
+                path: "/services/corporate-vip-travel",
+              },
+              {
+                name: "Long Distance Transfer",
+                path: "/services/long-distance-transfer",
+              },
+              {
+                name: "Hourly - As Directed Service",
+                path: "/services/hourly-services",
+              },
             ].map((item, i) => (
-              <li key={i} className="group cursor-pointer">
-                <div className="flex flex-col gap-2">
-                  <span className="group-hover:text-white transition">
-                    {item}
-                  </span>
-                  <div className="h-[1px] bg-gray-600 group-hover:bg-white transition"></div>
-                </div>
+              <li key={i}>
+                <Link
+                  to={item.path}
+                  onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+                  className="group cursor-pointer block"
+                >
+                  <div className="flex flex-col gap-2">
+                    <span className="text-gray-300 group-hover:text-white transition">
+                      {item.name}
+                    </span>
+                    <div className="h-[1px] bg-gray-600 group-hover:bg-white transition"></div>
+                  </div>
+                </Link>
               </li>
             ))}
           </ul>
