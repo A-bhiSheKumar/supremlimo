@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Plane, Clock, Shield, Car } from "lucide-react";
 
 const WhistlerTransfer = () => {
