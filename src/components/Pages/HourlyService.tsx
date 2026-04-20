@@ -50,11 +50,11 @@ xx{/* MAIN CONTENT */}
     </h3>
 
     <p className="text-gray-700 leading-relaxed text-base sm:text-lg mb-6">
-      Enjoy complete flexibility and comfort with Supreme Limousine’s Chauffeur by the Hour Service. Whether you’re attending business meetings, exploring the city, or managing a full-day itinerary with multiple stops, say goodbye to switching between taxis, rideshares, or crowded public transport.
+      Enjoy complete flexibility and comfort with LGA Car Service's Chauffeur by the Hour Service. Whether you're attending business meetings, exploring the city, or managing a full-day itinerary with multiple stops, say goodbye to switching between taxis, rideshares, or crowded public transport.
     </p>
 
     <p className="text-gray-700 leading-relaxed text-base sm:text-lg mb-6">
-      With Supreme Limousine’s Hourly Chauffeur Service, your professional driver remains on standby throughout your journey — ready to take you wherever you need to go, whenever you’re ready.
+      With LGA Car Service's Hourly Chauffeur Service, your professional driver remains on standby throughout your journey — ready to take you wherever you need to go, whenever you're ready.
     </p>
 
     <p className="text-gray-700 leading-relaxed text-base sm:text-lg mb-8">

@@ -82,7 +82,7 @@ const CorporateVipTravel = () => {
             </h2>
             <div className="w-16 h-[2px] bg-blue-600 mb-6"></div>
             <p className="text-gray-600 leading-relaxed text-lg">
-              In today's fast-paced corporate environment, time is of the importance, and first impressions are more important than ever. Supreme Limo understands the value of stress-free and prestigious corporate travel. Introducing 'Corporate VIP Travel,' a signature service developed to meet the specific needs of executives, entrepreneurs, and professionals. We provide a tailored experience that precisely matches with your business goals thanks to our unwavering commitment to elegance, punctuality, and dependability. Let us reinvent the way you travel for business so that every trip is more than just a commute.
+              In today's fast-paced corporate environment, time is of the importance, and first impressions are more important than ever. LGA Car Service understands the value of stress-free and prestigious corporate travel. Introducing 'Corporate VIP Travel,' a signature service developed to meet the specific needs of executives, entrepreneurs, and professionals. We provide a tailored experience that precisely matches with your business goals thanks to our unwavering commitment to elegance, punctuality, and dependability. Let us reinvent the way you travel for business so that every trip is more than just a commute.
             </p>
           </div>
         </div>
@@ -193,7 +193,7 @@ const CorporateVipTravel = () => {
             <div className="bg-white p-8 rounded-lg shadow-lg text-center hover:transform hover:-translate-y-2 transition-all duration-300">
               <h3 className="text-xl font-bold mb-4 text-gray-900">Reliability As A Cornerstone</h3>
               <p className="text-gray-600 leading-relaxed">
-                At Supreme Limo, reliability is the foundation of our services. We pride ourselves on being a partner you can trust to ensure your shipping needs are met flawlessly, allowing you to focus on what really matters – your business goals.
+                At LGA Car Service, reliability is the foundation of our services. We pride ourselves on being a partner you can trust to ensure your shipping needs are met flawlessly, allowing you to focus on what really matters – your business goals.
               </p>
             </div>
 
@@ -217,7 +217,7 @@ const CorporateVipTravel = () => {
             <div className="bg-white p-8 rounded-lg shadow-lg text-center hover:transform hover:-translate-y-2 transition-all duration-300">
               <h3 className="text-xl font-bold mb-4 text-gray-900">24/7 Availability</h3>
               <p className="text-gray-600 leading-relaxed">
-                The corporate world doesn't sleep and neither do we. No matter the time of day or night, you can count on Supreme Limo to provide 24/7 service, so you'll never be stranded or waiting for a ride.
+                The corporate world doesn't sleep and neither do we. No matter the time of day or night, you can count on LGA Car Service to provide 24/7 service, so you'll never be stranded or waiting for a ride.
               </p>
             </div>
 

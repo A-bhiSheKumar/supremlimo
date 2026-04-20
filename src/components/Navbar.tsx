@@ -124,7 +124,7 @@ const Navbar = () => {
               <a href="/" className="block">
                 <img
                   src={logo}
-                  alt="Supreme Limo Logo"
+                  alt="LGA Car Service Logo"
                   className="h-14 w-auto object-contain"
                 />
               </a>

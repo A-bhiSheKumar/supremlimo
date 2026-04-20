@@ -38,8 +38,8 @@ const Boston = () => {
           Boston Limousine, Chauffeur & Black Car Service
         </h2>
         <p className="text-gray-600 text-lg mb-10">
-          Experience the perfect blend of comfort, safety, and professionalism with Supreme Limousine
-          & Chauffeur Service — Boston's trusted provider of luxury private transportation. Whether
+          Experience the perfect blend of comfort, safety, and professionalism with LGA Car Service
+          — Boston's trusted provider of luxury private transportation. Whether
           you're arriving at Boston Logan Airport, heading to nearby destinations, or
           traveling between major cities, our chauffeurs ensure every ride is seamless,
           punctual, and first-class. We specialize in Logan Airport Transfers, private shuttle service,
@@ -103,7 +103,7 @@ const Boston = () => {
         {/* Why Choose Us */}
         <div>
           <p className="text-blue-600 font-semibold uppercase tracking-wide mb-2">Stress-free Travel</p>
-          <h3 className="text-2xl font-bold text-gray-900 mb-6">Why Choose Supreme Limousine in Boston</h3>
+          <h3 className="text-2xl font-bold text-gray-900 mb-6">Why Choose LGA Car Service in Boston</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {[
               "Corporate & VIP Specialists – Trusted by executives, hotels, and travel partners",

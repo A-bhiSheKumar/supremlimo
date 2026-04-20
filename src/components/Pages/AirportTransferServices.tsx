@@ -55,10 +55,10 @@ const AirportTransferServices = () => {
               </h2>
               <div className="w-16 h-1 bg-blue-600 mb-6"></div>
               <p className="text-gray-600 leading-relaxed mb-4">
-                Supreme Limo is happy to be your dependable <a href="#" className="text-blue-600 hover:underline">airport transfer</a> company in Vancouver, committed to make travel as easy as possible. Our services are designed to provide speedy and convenient transportation to and from the airport, reducing the stress of transportation logistics.
+                LGA Car Service is happy to be your dependable <a href="#" className="text-blue-600 hover:underline">airport transfer</a> company in Vancouver, committed to make travel as easy as possible. Our services are designed to provide speedy and convenient transportation to and from the airport, reducing the stress of transportation logistics.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                With a diverse fleet of <a href="#" className="text-blue-600 hover:underline">sedans, SUVs, and Sprinter vans</a>, we provide a range of solutions to fit your travel requirements. Our skilled drivers value punctuality and professionalism when navigating Vancouver. Supreme Limo will be ready to carry you luxuriously and safely to your destination as soon as your flight lands. Our <a href="#" className="text-blue-600 hover:underline">airport transfer</a> service provides you with peace of mind and efficiency, making it your doorway to stress-free travel.
+                With a diverse fleet of <a href="#" className="text-blue-600 hover:underline">sedans, SUVs, and Sprinter vans</a>, we provide a range of solutions to fit your travel requirements. Our skilled drivers value punctuality and professionalism when navigating Vancouver. LGA Car Service will be ready to carry you luxuriously and safely to your destination as soon as your flight lands. Our <a href="#" className="text-blue-600 hover:underline">airport transfer</a> service provides you with peace of mind and efficiency, making it your doorway to stress-free travel.
               </p>
             </div>
           </div>
@@ -119,13 +119,13 @@ const AirportTransferServices = () => {
           </h2>
           <div className="max-w-4xl mx-auto text-center">
             <p className="text-gray-600 leading-relaxed mb-6">
-              From Vancouver to Edmonton, Calgary, Toronto, and Montreal, Supreme Limousine & Chauffeur Service has you covered from landing to take-off. We provide luxury airport transfers, private car service, and professional chauffeur transportation across Canada's major cities — ensuring every journey is smooth, safe, and punctual.
+              From Vancouver to Edmonton, Calgary, Toronto, and Montreal, LGA Car Service has you covered from landing to take-off. We provide luxury airport transfers, private car service, and professional chauffeur transportation across Canada's major cities — ensuring every journey is smooth, safe, and punctual.
             </p>
             <p className="text-gray-600 leading-relaxed mb-6">
-              Choose Supreme Limo for worry-free airport travel, reliable flight tracking, and exceptional service that sets the standard for premium chauffeur and black car transportation nationwide.
+              Choose LGA Car Service for worry-free airport travel, reliable flight tracking, and exceptional service that sets the standard for premium chauffeur and black car transportation nationwide.
             </p>
             <p className="text-gray-600 leading-relaxed mb-4">
-              Supreme Limousine operates around the clock, providing transportation to and from <a href="#" className="text-blue-600 hover:underline">Vancouver International Airport (YVR), South Terminal</a>, and Private FBO. Additionally, our services extend to <a href="#" className="text-blue-600 hover:underline">Abbotsford Airport (YXX)</a>, <a href="#" className="text-blue-600 hover:underline">Calgary Airport (YYC)</a>, <a href="#" className="text-blue-600 hover:underline">Montreal Airport (YUL)</a>, <a href="#" className="text-blue-600 hover:underline">Toronto Airport (YYZ)</a>, <a href="#" className="text-blue-600 hover:underline">Bellingham Airport (BLI)</a>, and <a href="#" className="text-blue-600 hover:underline">Sea-Tac Airport (SEA)</a>.
+              LGA Car Service operates around the clock, providing transportation to and from <a href="#" className="text-blue-600 hover:underline">Vancouver International Airport (YVR), South Terminal</a>, and Private FBO. Additionally, our services extend to <a href="#" className="text-blue-600 hover:underline">Abbotsford Airport (YXX)</a>, <a href="#" className="text-blue-600 hover:underline">Calgary Airport (YYC)</a>, <a href="#" className="text-blue-600 hover:underline">Montreal Airport (YUL)</a>, <a href="#" className="text-blue-600 hover:underline">Toronto Airport (YYZ)</a>, <a href="#" className="text-blue-600 hover:underline">Bellingham Airport (BLI)</a>, and <a href="#" className="text-blue-600 hover:underline">Sea-Tac Airport (SEA)</a>.
             </p>
             <p className="text-gray-900 font-medium text-lg">
               Experience the difference — coast to coast, comfort to confidence.
@@ -151,10 +151,10 @@ const AirportTransferServices = () => {
               </h2>
               <div className="w-16 h-1 bg-blue-600 mb-6"></div>
               <p className="text-gray-600 leading-relaxed mb-4">
-                Whether you're hiring from an FBO or renting directly from an airport, Supreme Limo ensures a safer, faster, and easier experience. Our team caters to the unique needs of private aviation travelers, providing a dependable and luxurious car rental service that stands out for its convenience and reliability. With Supreme Limo, you can expect seamless transportation as soon as you land at <a href="#" className="text-blue-600 hover:underline">Signature Aviation</a>, <a href="#" className="text-blue-600 hover:underline">Sky Service FBO</a> or <a href="#" className="text-blue-600 hover:underline">Million Air</a> making your ground transportation journey as smooth as possible from start to finish.
+                Whether you're hiring from an FBO or renting directly from an airport, LGA Car Service ensures a safer, faster, and easier experience. Our team caters to the unique needs of private aviation travelers, providing a dependable and luxurious car rental service that stands out for its convenience and reliability. With LGA Car Service, you can expect seamless transportation as soon as you land at <a href="#" className="text-blue-600 hover:underline">Signature Aviation</a>, <a href="#" className="text-blue-600 hover:underline">Sky Service FBO</a> or <a href="#" className="text-blue-600 hover:underline">Million Air</a> making your ground transportation journey as smooth as possible from start to finish.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                With Supreme Limo, you're covered from landing to take-off. Trust us for your airport transfer needs and experience the unrivaled reliability of Vancouver airport transfers.
+                With LGA Car Service, you're covered from landing to take-off. Trust us for your airport transfer needs and experience the unrivaled reliability of Vancouver airport transfers.
               </p>
             </div>
           </div>
@@ -171,13 +171,13 @@ const AirportTransferServices = () => {
               </h2>
               <div className="w-16 h-1 bg-blue-600 mb-6"></div>
               <p className="text-gray-600 leading-relaxed mb-4">
-                With Supreme Limo's VIP Meet & Greet service, travel becomes effortless. Our dedicated greeter will attend to you at every step, from the moment you arrive at the airport until you reach your final destination. Experience a smooth and satisfying journey, as we handle everything from luggage assistance to expedited check-ins, ensuring you breeze through security and immigration.
+                With LGA Car Service's VIP Meet & Greet service, travel becomes effortless. Our dedicated greeter will attend to you at every step, from the moment you arrive at the airport until you reach your final destination. Experience a smooth and satisfying journey, as we handle everything from luggage assistance to expedited check-ins, ensuring you breeze through security and immigration.
               </p>
               <p className="text-gray-600 leading-relaxed mb-4">
-                Our VIP Meet & Greet service is designed to provide you with comfort and ease, making each aspect of your airport journey stress-free. Whether you're arriving, departing, or transferring, our greeter is there to handle logistics so that you can relax and focus on your travels. With Supreme Limo, enjoy an elevated travel experience that's tailored to meet the needs of discerning travelers seeking a seamless airport transition.
+                Our VIP Meet & Greet service is designed to provide you with comfort and ease, making each aspect of your airport journey stress-free. Whether you're arriving, departing, or transferring, our greeter is there to handle logistics so that you can relax and focus on your travels. With LGA Car Service, enjoy an elevated travel experience that's tailored to meet the needs of discerning travelers seeking a seamless airport transition.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                With Supreme Limo, you're covered from landing to take-off. Trust us for your airport transfer needs and experience the unrivaled reliability of Vancouver airport transfers.
+                With LGA Car Service, you're covered from landing to take-off. Trust us for your airport transfer needs and experience the unrivaled reliability of Vancouver airport transfers.
               </p>
             </div>
             <div className="relative order-1 md:order-2">
@@ -279,7 +279,7 @@ const AirportTransferServices = () => {
               </h2>
               <div className="w-16 h-1 bg-blue-600 mb-6"></div>
               <p className="text-gray-600 leading-relaxed text-lg">
-                Supreme Limo is your preferred luxury automobile rental destination. Our luxurious fleet redefines elegance and luxury, guaranteeing that your vacation is nothing short of extraordinary.
+                LGA Car Service is your preferred luxury automobile rental destination. Our luxurious fleet redefines elegance and luxury, guaranteeing that your vacation is nothing short of extraordinary.
               </p>
             </div>
 
@@ -322,7 +322,7 @@ const AirportTransferServices = () => {
                     Sprinter Vans
                   </h3>
                   <p className="text-gray-600 text-center leading-relaxed">
-                    When your journey requires plenty of seating and a touch of sophistication, our Sprinter Vans deliver. Combining functionality with style, these vans offer a spacious interior without sacrificing the premium experience you expect from a Supreme Limo.
+                    When your journey requires plenty of seating and a touch of sophistication, our Sprinter Vans deliver. Combining functionality with style, these vans offer a spacious interior without sacrificing the premium experience you expect from a LGA Car Service.
                   </p>
                 </div>
               </div>
@@ -485,7 +485,7 @@ const AirportTransferServices = () => {
                 </div>
               </div>
               <p className="text-gray-600 text-sm leading-relaxed">
-                I booked airport transfer with them for my family. Flight was delayed 3 hours but Supreme Limousine took my stress away as they adjusted pickup time accordingly. Great communication through whatsApp. Worth every penny. Best airport transfer ... <button className="text-blue-600 hover:underline">More</button>
+                I booked airport transfer with them for my family. Flight was delayed 3 hours but LGA Car Service took my stress away as they adjusted pickup time accordingly. Great communication through whatsApp. Worth every penny. Best airport transfer ... <button className="text-blue-600 hover:underline">More</button>
               </p>
             </div>
 
@@ -510,7 +510,7 @@ const AirportTransferServices = () => {
                 </div>
               </div>
               <p className="text-gray-600 text-sm leading-relaxed">
-                I would highly recommend Supreme Limousine . Extremely smooth transaction. We got a brand new car which was great. Friendly staff. Picked up at airport and dropped off. We will 100% rent from them again and also would recommend them to ... <button className="text-blue-600 hover:underline">More</button>
+                I would highly recommend LGA Car Service . Extremely smooth transaction. We got a brand new car which was great. Friendly staff. Picked up at airport and dropped off. We will 100% rent from them again and also would recommend them to ... <button className="text-blue-600 hover:underline">More</button>
               </p>
             </div>
           </div>

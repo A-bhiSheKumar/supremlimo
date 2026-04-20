@@ -55,7 +55,7 @@ const Philadelphia: React.FC = () => {
               </h2>
               <div className="space-y-4 text-justify text-lg leading-relaxed text-gray-600">
                 <p>
-                  Experience the finest limo service in Philadelphia with Supreme Limousine & Chauffeur Service — where luxury, comfort, and professionalism come together seamlessly. Whether you're traveling for business or leisure, our <strong>private car service</strong> and <strong>chauffeur-driven vehicles</strong> guarantee a smooth, stylish, and stress-free ride throughout the city.
+                  Experience the finest limo service in Philadelphia with LGA Car Service — where luxury, comfort, and professionalism come together seamlessly. Whether you're traveling for business or leisure, our <strong>private car service</strong> and <strong>chauffeur-driven vehicles</strong> guarantee a smooth, stylish, and stress-free ride throughout the city.
                 </p>
                 <p>
                   Our diverse fleet of luxury limousines, black cars, SUVs, and executive sedans is designed to cater to every occasion. Each vehicle is immaculately maintained and driven by <strong>uniformed, experienced chauffeurs</strong> who uphold the highest standards of discretion and service. From corporate executives to visiting VIPs, every guest enjoys first-class treatment from start to finish.
@@ -125,7 +125,7 @@ const Philadelphia: React.FC = () => {
               </h2>
               <div className="space-y-4 text-justify text-lg leading-relaxed text-gray-600">
                 <p>
-                  Supreme Limousine specializes in <strong>airport transfers</strong>, corporate transportation, wedding limos, dinner transfers, concerts, and special events. Whether you need a <strong>VIP limo</strong> for a red-carpet event, a <strong>town car service</strong> for an important meeting, or <strong>chauffeur service</strong> for a night out in Philadelphia, our professional drivers ensure punctuality, comfort, and elegance in every ride.
+                  LGA Car Service specializes in <strong>airport transfers</strong>, corporate transportation, wedding limos, dinner transfers, concerts, and special events. Whether you need a <strong>VIP limo</strong> for a red-carpet event, a <strong>town car service</strong> for an important meeting, or <strong>chauffeur service</strong> for a night out in Philadelphia, our professional drivers ensure punctuality, comfort, and elegance in every ride.
                 </p>
                 <p>
                   We understand that every trip is unique — that's why we offer flexible <strong>hourly and point-to-point options</strong>, custom itineraries, and <strong>24/7 availability</strong>. Enjoy a truly personalized travel experience in Philadelphia with our <strong>luxury limo and black car service</strong>, backed by reliability, safety, and <em>"Quality Without Compromise."</em>

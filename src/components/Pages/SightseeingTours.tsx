@@ -49,13 +49,13 @@ const SightseeingTours = () => {
             <div className="w-20 h-1 bg-blue-600 mb-8"></div>
             <div className="space-y-6 text-gray-600 leading-relaxed text-lg">
               <p>
-                Experience the thrill of adventure like never before with Supreme Limo's Vancouver city sightseeing services. Customize your tour to suit your preferences and take control of your journey. Say farewell to dull tours and embrace private city sightseeing with your personal chauffeur guide. We don't cut corners when it comes to luxury, so you can rely on us for a first-class experience.
+                Experience the thrill of adventure like never before with LGA Car Service's Vancouver city sightseeing services. Customize your tour to suit your preferences and take control of your journey. Say farewell to dull tours and embrace private city sightseeing with your personal chauffeur guide. We don't cut corners when it comes to luxury, so you can rely on us for a first-class experience.
               </p>
               <p>
                 Your sightseeing should be more than just average—we aim to make it exceptional!
               </p>
               <p className="font-medium text-gray-900">
-                Book your Supreme Limo today, and we'll create a world that's uniquely yours!
+                Book your LGA Car Service today, and we'll create a world that's uniquely yours!
               </p>
             </div>
           </div>
@@ -116,13 +116,13 @@ const SightseeingTours = () => {
             <div className="w-20 h-1 bg-blue-600 mb-8"></div>
             <div className="space-y-6 text-gray-600 leading-relaxed text-lg">
               <p>
-                Enjoy the rush of adventure like never before with Supreme Limo's world-class sightseeing services. Wave goodbye to the boring tours and welcome an adventure brimming with legendary elegance and of course, luxury. We never compromise on luxury, and that's where you can count on us.
+                Enjoy the rush of adventure like never before with LGA Car Service's world-class sightseeing services. Wave goodbye to the boring tours and welcome an adventure brimming with legendary elegance and of course, luxury. We never compromise on luxury, and that's where you can count on us.
               </p>
               <p>
                 Your sightseeing experience deserves more than the ordinary and we are here to give you the extraordinary!
               </p>
               <p className="font-medium text-gray-900">
-                Order your Supreme Limo now, and we'll make the world a better place just for you!
+                Order your LGA Car Service now, and we'll make the world a better place just for you!
               </p>
             </div>
           </div>
@@ -146,7 +146,7 @@ const SightseeingTours = () => {
               Why Book With Us
             </h2>
             <p className="text-gray-300 text-lg max-w-3xl mx-auto">
-              At Supreme Limousine & Chauffeur Service, we believe that every journey should be a unique and memorable experience. Here's why you should book your private guided chauffeur tour with us:
+              At LGA Car Service, we believe that every journey should be a unique and memorable experience. Here's why you should book your private guided chauffeur tour with us:
             </p>
           </div>
           

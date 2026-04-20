@@ -40,13 +40,13 @@ const FerryTerminalLimoService = () => {
       <section className="py-14 md:py-20">
         <div className="max-w-5xl mx-auto px-4 sm:px-6">
           <h2 className="text-3xl sm:text-4xl font-bold mb-6 leading-tight">
-            Elevate Your Ferry Experience with Supreme Limo
+            Elevate Your Ferry Experience with LGA Car Service
           </h2>
 
           <p className="text-gray-700 leading-relaxed text-base sm:text-lg mb-8">
             When traveling to the stunning destinations of Victoria and
             Nanaimo via the Tsawwassen ferry terminal, the last thing you want
-            to worry about is transportation. At Supreme Limo, we specialize in
+            to worry about is transportation. At LGA Car Service, we specialize in
             providing seamless ferry terminal limo services, ensuring that your
             journey starts and ends with comfort and style.
           </p>

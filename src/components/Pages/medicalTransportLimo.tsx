@@ -1,5 +1,3 @@
-
-
 const MedicalTransportLimo = () => {
   return (
     <div className="min-h-screen bg-white overflow-hidden">
@@ -46,14 +44,14 @@ const MedicalTransportLimo = () => {
           </h2>
 
           <p className="text-gray-600 leading-relaxed mb-6">
-            At Supreme Limo, we are committed to providing accessible, comfortable, and reliable transportation for all, including individuals with medical needs. Our Medical Transport LGA Car Services in Vancouver, British Columbia, is designed to ensure safe, dignified, and convenient travel for people, whether for medical appointments, therapy sessions, family events, or other outings.
+            At LGA Car Service, we are committed to providing accessible, comfortable, and reliable transportation for all, including individuals with medical needs. Our Medical Transport LGA Car Services in Vancouver, British Columbia, is designed to ensure safe, dignified, and convenient travel for people, whether for medical appointments, therapy sessions, family events, or other outings.
           </p>
 
           <hr className="mb-8" />
 
           {/* WHY CHOOSE */}
           <h3 className="text-2xl font-bold mb-4">
-            Why Choose Supreme Limo for Medical Transportation?
+            Why Choose LGA Car Service for Medical Transportation?
           </h3>
 
           <div className="space-y-6 text-gray-700 leading-relaxed">
@@ -119,11 +117,11 @@ const MedicalTransportLimo = () => {
 
           {/* CTA TEXT */}
           <h3 className="text-2xl font-bold mb-4">
-            Book Your Accessible Transportation with Supreme Limo Today
+            Book Your Accessible Transportation with LGA Car Service Today
           </h3>
 
           <p className="text-gray-600 leading-relaxed">
-            Supreme Limo is dedicated to offering inclusive and compassionate service to meet the mobility needs of all individuals. To book your medical transport limousine, contact us today. Let us provide you with the care, comfort, and reliability you deserve on your journey.
+            LGA Car Service is dedicated to offering inclusive and compassionate service to meet the mobility needs of all individuals. To book your medical transport limousine, contact us today. Let us provide you with the care, comfort, and reliability you deserve on your journey.
           </p>
 
         </div>

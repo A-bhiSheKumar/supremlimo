@@ -85,7 +85,7 @@ const CruiseShipTransfer = () => {
           </h2>
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-8"></div>
           <p className="text-gray-600 leading-relaxed text-lg">
-            Whether you're embarking on a cruise or wrapping up your journey, <strong>Supreme Limousine</strong> is ready to welcome you with a spotless fleet of luxury vehicles. Supreme Limousine & Chauffeur Service ensures your transition is smooth, luxurious, and stress-free with our <strong>Cruise Ship Limo Service in Vancouver</strong>. We specialize in private cruise ship transfers between <a href="#" className="text-blue-600 hover:underline">Vancouver International Airport (YVR)</a> and the <a href="#" className="text-blue-600 hover:underline">Canada Place Cruise Ship Terminal at the Port of Vancouver</a> — and we are fully authorized and approved for direct pick-up and drop-off at the terminal.
+            Whether you're embarking on a cruise or wrapping up your journey, <strong>LGA Car Service</strong> is ready to welcome you with a spotless fleet of luxury vehicles. LGA Car Service ensures your transition is smooth, luxurious, and stress-free with our <strong>Cruise Ship Limo Service in Vancouver</strong>. We specialize in private cruise ship transfers between <a href="#" className="text-blue-600 hover:underline">Vancouver International Airport (YVR)</a> and the <a href="#" className="text-blue-600 hover:underline">Canada Place Cruise Ship Terminal at the Port of Vancouver</a> — and we are fully authorized and approved for direct pick-up and drop-off at the terminal.
           </p>
         </div>
       </section>
@@ -99,7 +99,7 @@ const CruiseShipTransfer = () => {
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-8"></div>
           
           <p className="text-gray-600 leading-relaxed text-center mb-8 text-lg">
-            Whether you're just arriving in Vancouver or preparing to set sail, <a href="#" className="text-blue-600 hover:underline">Supreme Limousine</a> ensures your cruise ship private transfer experience is smooth, stylish, and stress-free. Our professionally maintained vehicles and experienced chauffeurs provide a relaxed, efficient ride to your next destination. Whether you're heading to the airport, hotel, or a <a href="#" className="text-blue-600 hover:underline">sightseeing tour</a>, we make your transition from sea to land effortless and elegant.
+            Whether you're just arriving in Vancouver or preparing to set sail, <a href="#" className="text-blue-600 hover:underline">LGA Car Service</a> ensures your cruise ship private transfer experience is smooth, stylish, and stress-free. Our professionally maintained vehicles and experienced chauffeurs provide a relaxed, efficient ride to your next destination. Whether you're heading to the airport, hotel, or a <a href="#" className="text-blue-600 hover:underline">sightseeing tour</a>, we make your transition from sea to land effortless and elegant.
           </p>
 
           <ul className="space-y-4 max-w-4xl mx-auto">
@@ -208,7 +208,7 @@ const CruiseShipTransfer = () => {
             </h3>
             <div className="w-20 h-1 bg-blue-600 mx-auto mb-6"></div>
             <p className="text-gray-600 leading-relaxed text-center max-w-4xl mx-auto">
-              Make the most of your time in Vancouver with <strong>Supreme Limousine's professional chauffeurs</strong>, who specialize in pre- and post-cruise sightseeing tours. Whether you have a few hours before embarkation or a couple of days after your cruise, our knowledgeable chauffeurs transform every moment into a memorable experience. Make the most of your time in Vancouver without the hassle of finding multiple transportation options. Enjoy door-to-door service that ensures a comfortable and stress-free journey, so you can focus on making memories.
+              Make the most of your time in Vancouver with <strong>LGA Car Service's professional chauffeurs</strong>, who specialize in pre- and post-cruise sightseeing tours. Whether you have a few hours before embarkation or a couple of days after your cruise, our knowledgeable chauffeurs transform every moment into a memorable experience. Make the most of your time in Vancouver without the hassle of finding multiple transportation options. Enjoy door-to-door service that ensures a comfortable and stress-free journey, so you can focus on making memories.
             </p>
           </div>
 
@@ -251,7 +251,7 @@ const CruiseShipTransfer = () => {
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-8"></div>
           
           <p className="text-gray-600 leading-relaxed mb-6">
-            For those continuing their journey to Seattle, <strong>Supreme Limo</strong> offers cross-border transfers directly from the <strong>Vancouver cruise terminal</strong>. Travel in style and comfort as our experienced chauffeurs handle the drive, navigating border crossings with ease. Enjoy a smooth, direct route to <a href="#" className="text-blue-600 hover:underline">Seattle-Tacoma International Airport (SEA)</a> or your next destination in Seattle, giving you more time to relax and less time worrying about logistics. We have drivers with Nexus for <a href="#" className="text-blue-600 hover:underline">Vancouver to Seattle Private Transfer</a> available as well.
+            For those continuing their journey to Seattle, <strong>LGA Car Service</strong> offers cross-border transfers directly from the <strong>Vancouver cruise terminal</strong>. Travel in style and comfort as our experienced chauffeurs handle the drive, navigating border crossings with ease. Enjoy a smooth, direct route to <a href="#" className="text-blue-600 hover:underline">Seattle-Tacoma International Airport (SEA)</a> or your next destination in Seattle, giving you more time to relax and less time worrying about logistics. We have drivers with Nexus for <a href="#" className="text-blue-600 hover:underline">Vancouver to Seattle Private Transfer</a> available as well.
           </p>
 
           <ul className="text-left max-w-2xl mx-auto space-y-3 mb-8">
@@ -275,12 +275,12 @@ const CruiseShipTransfer = () => {
       <section className="py-16 md:py-24 bg-gray-50">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-            Why Choose Supreme Limo for Your Cruise Ship Transportation?
+            Why Choose LGA Car Service for Your Cruise Ship Transportation?
           </h2>
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-8"></div>
           
           <p className="text-gray-600 leading-relaxed mb-6">
-            Supreme Limo is dedicated to providing exceptional service for cruise passengers visiting Vancouver. From luxury vehicles to professional drivers, we prioritize safety, comfort, and efficiency. Choose Supreme Limo for a memorable experience that complements the luxury of your cruise. Whether you're sightseeing, transferring to Seattle, or extending your stay, we're here to make your time in Vancouver as enjoyable as possible.
+            LGA Car Service is dedicated to providing exceptional service for cruise passengers visiting Vancouver. From luxury vehicles to professional drivers, we prioritize safety, comfort, and efficiency. Choose LGA Car Service for a memorable experience that complements the luxury of your cruise. Whether you're sightseeing, transferring to Seattle, or extending your stay, we're here to make your time in Vancouver as enjoyable as possible.
           </p>
           
           <p className="text-gray-600 leading-relaxed">
@@ -298,11 +298,11 @@ const CruiseShipTransfer = () => {
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-8"></div>
           
           <p className="text-gray-600 leading-relaxed mb-6">
-            Supreme Limo's dedication to excellence extends beyond luxury to include environmental concerns. Our Eco-Friendly services allow you to contribute to a greener future without sacrificing the enjoyment of your journey.
+            LGA Car Service's dedication to excellence extends beyond luxury to include environmental concerns. Our Eco-Friendly services allow you to contribute to a greener future without sacrificing the enjoyment of your journey.
           </p>
           
           <p className="text-gray-600 leading-relaxed">
-            Finally, Supreme Limo's Cruise Ship Transfer service embodies elegance, convenience, and great attention to detail. We don't just take you somewhere; we immerse you in an experience that mirrors the grandeur of your cruise vacation. Choose Supreme Limo for a cruise ship transportation that will be as memorable as the trip itself.
+            Finally, LGA Car Service's Cruise Ship Transfer service embodies elegance, convenience, and great attention to detail. We don't just take you somewhere; we immerse you in an experience that mirrors the grandeur of your cruise vacation. Choose LGA Car Service for a cruise ship transportation that will be as memorable as the trip itself.
           </p>
         </div>
       </section>
@@ -324,7 +324,7 @@ const CruiseShipTransfer = () => {
               </h2>
               <div className="w-16 h-1 bg-blue-600 mb-6"></div>
               <p className="text-gray-600 leading-relaxed">
-                <strong>Five-Star Reputation:</strong> Trusted by international travelers, luxury concierges, and travel professionals, <strong>Supreme Limousine</strong> consistently delivers a <strong>first-class experience</strong> backed by glowing reviews. Wherever your voyage takes you, our voyage Ship Transfer service will be there to greet you when you return to land. We operate in significant cruise ship ports, guaranteeing that our service reaches you no matter where your vacation finishes.
+                <strong>Five-Star Reputation:</strong> Trusted by international travelers, luxury concierges, and travel professionals, <strong>LGA Car Service</strong> consistently delivers a <strong>first-class experience</strong> backed by glowing reviews. Wherever your voyage takes you, our voyage Ship Transfer service will be there to greet you when you return to land. We operate in significant cruise ship ports, guaranteeing that our service reaches you no matter where your vacation finishes.
               </p>
             </div>
           </div>

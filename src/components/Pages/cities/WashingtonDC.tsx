@@ -77,7 +77,7 @@ const WashingtonDC = () => {
             Private Black Car & Executive Chauffeur Services
           </h3>
           <p className="text-gray-600 mb-8">
-            Supreme Limousine offers flexible point-to-point transfers, round-trip rides, and hourly
+            LGA Car Service offers flexible point-to-point transfers, round-trip rides, and hourly
             "as-directed" chauffeur services across Washington DC. Your driver remains on standby
             for your convenience.
           </p>

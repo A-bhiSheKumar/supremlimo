@@ -37,10 +37,10 @@ const Baltimore = () => {
 
         {/* Intro */}
         <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-          Supreme Limo is the Best Baltimore Car Service for Luxuriousness and Ease
+          LGA Car Service is the Best Baltimore Car Service for Luxuriousness and Ease
         </h2>
         <p className="text-gray-600 text-lg mb-12">
-          Looking for a reliable limo service in Baltimore? Supreme Limo offers the most luxurious
+          Looking for a reliable limo service in Baltimore? LGA Car Service offers the most luxurious
           and convenient car service in Baltimore, including airport transfers, private city
           transportation, and cross-border travel. Whether you're headed to downtown Baltimore, BWI
           Airport, or need a chauffeur service across the region, our premium vehicles and
@@ -79,7 +79,7 @@ const Baltimore = () => {
               BWI Airport Limo – Airport Transfers Made Easy
             </h4>
             <p className="text-gray-600">
-              Need a ride to or from BWI Airport? Supreme Limo provides seamless airport transfers
+              Need a ride to or from BWI Airport? LGA Car Service provides seamless airport transfers
               in Baltimore. Our chauffeurs ensure timely pickups and drop-offs, whether you're
               catching a flight or returning home. Book your limo easily through our online
               system — perfect for last-minute or pre-planned trips.
@@ -103,7 +103,7 @@ const Baltimore = () => {
               Easy Online Booking & Customer Support
             </h4>
             <p className="text-gray-600">
-              We understand that convenience matters. That's why Supreme Limo offers easy online
+              We understand that convenience matters. That's why LGA Car Service offers easy online
               booking for your Baltimore town car service or limousine. Whether you're traveling
               solo, with a group, or for corporate needs, booking takes just a few clicks.
             </p>
@@ -112,7 +112,7 @@ const Baltimore = () => {
 
         {/* Why Choose Us */}
         <div>
-          <h3 className="text-2xl font-bold text-gray-900 mb-6">Why Choose Supreme Limo?</h3>
+          <h3 className="text-2xl font-bold text-gray-900 mb-6">Why Choose LGA Car Service?</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {[
               "Professional chauffeurs",
@@ -128,7 +128,7 @@ const Baltimore = () => {
             ))}
           </div>
           <p className="text-gray-600 mt-6">
-            Book your limo in Baltimore today with Supreme Limo — your top choice for executive
+            Book your limo in Baltimore today with LGA Car Service — your top choice for executive
             transportation, airport transfers, and private car service. Experience the comfort,
             convenience, and class that make us the best in the industry.
           </p>

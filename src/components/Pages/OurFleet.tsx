@@ -45,7 +45,7 @@ const OurFleet: React.FC = () => {
               Luxury Redefined : Top Class Sedans
             </h2>
             <p className="mx-auto max-w-4xl text-lg leading-relaxed text-gray-600">
-              At <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline">Supreme Limousine</a>, our fleet of late model vehicles is the epitome of elegance, comfort, and adaptability, ensuring the perfect vehicle for any event or occasion. <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline">Multiple Vehicles</a> are available for <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline">group or event transportation</a>. Each vehicle in our <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline">fleet</a> is well-maintained, guaranteeing a smooth and luxurious trip tailored to specific needs.
+              At <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline">LGA Car Service</a>, our fleet of late model vehicles is the epitome of elegance, comfort, and adaptability, ensuring the perfect vehicle for any event or occasion. <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline">Multiple Vehicles</a> are available for <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline">group or event transportation</a>. Each vehicle in our <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline">fleet</a> is well-maintained, guaranteeing a smooth and luxurious trip tailored to specific needs.
             </p>
           </div>
 

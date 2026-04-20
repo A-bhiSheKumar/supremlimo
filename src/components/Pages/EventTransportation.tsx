@@ -53,7 +53,7 @@ const EventTransportation = () => {
               </h2>
               <div className="w-16 h-1 bg-blue-600 mb-6"></div>
               <p className="text-gray-600 leading-relaxed text-lg">
-                At Supreme Limousine, we deliver world-class luxury transportation and full event support services for corporate, private, and VIP events of every scale. From planning to on-site execution, our dedicated Event Support Department ensures flawless logistics, professional coordination, and premium travel comfort for every guest.
+                At LGA Car Service, we deliver world-class luxury transportation and full event support services for corporate, private, and VIP events of every scale. From planning to on-site execution, our dedicated Event Support Department ensures flawless logistics, professional coordination, and premium travel comfort for every guest.
               </p>
             </div>
           </div>
