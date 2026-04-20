@@ -1,15 +1,16 @@
 import image from '../assets/banner1.jpg';
+
 const ServicesSection = () => {
   const services = [
-    { title: 'Airport Transfers', image: image },
-    { title: 'Whistler Transfers', image: 'https://images.unsplash.com/photo-1551524559-8af4e6624178?w=600&h=400&fit=crop' },
-    { title: 'Corporate Transportation', image: 'https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=600&h=400&fit=crop' },
-    { title: 'Cruise Ship Transfers', image: 'https://images.unsplash.com/photo-1544148103-0773bf10d330?w=600&h=400&fit=crop' },
-    { title: 'Seattle Transfers', image: 'https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=600&h=400&fit=crop' },
-    { title: 'Hourly Transfer Service', image: 'https://images.unsplash.com/photo-1563720223185-11003d516935?w=600&h=400&fit=crop' },
-    { title: 'Sightseeing Tours', image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop' },
-    { title: 'Long Distance Transfer', image: 'https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&h=400&fit=crop' },
-    { title: 'Event Transportation', image: 'https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=400&fit=crop' },
+    { title: 'Worldwide Airport Transfer Service', href: '/services/airport-transfer', image: image },
+    { title: 'New York Airport Car & Limo Service', href: '/services/whistler-transfer', image: 'https://images.unsplash.com/photo-1551524559-8af4e6624178?w=600&h=400&fit=crop' },
+    { title: 'NYC Car Service & Limo Service', href: '/services/cruise-ship-transfer', image: 'https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=600&h=400&fit=crop' },
+    { title: 'Family Car Service With Car Seats', href: '/services/sightseeing-tours', image: 'https://images.unsplash.com/photo-1544148103-0773bf10d330?w=600&h=400&fit=crop' },
+    { title: 'Hourly Car Service & Limo Service', href: '/services/hourly-services', image: 'https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=600&h=400&fit=crop' },
+    { title: 'Long-Distance & Out-Of-Town Car Service', href: '/services/long-distance-transfer', image: 'https://images.unsplash.com/photo-1563720223185-11003d516935?w=600&h=400&fit=crop' },
+    { title: 'Corporate Car Service & Limo Service', href: '/services/corporate-vip-travel', image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop' },
+    { title: 'Private Aviation & FBO Car Service', href: '/services/funeral-transportation-limo-services', image: 'https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&h=400&fit=crop' },
+    { title: 'Group Transportation Service For Schools & Universities', href: '/services/travel-to-seattle', image: 'https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=400&fit=crop' },
   ];
 
   return (
@@ -24,39 +25,49 @@ const ServicesSection = () => {
             We proudly offer our{' '}
             <a href="#" className="text-blue-600 hover:underline">corporate black car</a>,{' '}
             <a href="#" className="text-blue-600 hover:underline">executive transportation services</a>{' '}
-            and luxury shuttle service for events in Vancouver. With professional chauffeurs, 
-            a luxury fleet, and precise logistics, we ensures seamless travel for business, 
+            and luxury shuttle service for events in Vancouver. With professional chauffeurs,
+            a luxury fleet, and precise logistics, we ensures seamless travel for business,
             events, and VIP clients.
           </p>
         </div>
 
         {/* Grid - 3 columns */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-5">
-          {services.map((service, index) => (
-            <a
-              key={index}
-              href="#"
-              className="group relative aspect-[4/3] overflow-hidden rounded-lg block"
-            >
-              <img
-                src={service.image}
-                alt={service.title}
-                className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
-              <div className="absolute bottom-0 left-0 right-0 p-4 lg:p-5 flex items-center justify-between">
-                <h3 className="text-white text-lg lg:text-xl font-semibold">
-                  {service.title}
-                </h3>
-                <div className="w-8 h-8 lg:w-9 lg:h-9 rounded-full border-2 border-white/60 flex items-center justify-center group-hover:bg-white/20 transition-colors">
-                  <svg className="w-4 h-4 lg:w-4.5 lg:h-4.5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                    <path strokeLinecap="round" strokeLinejoin="round" d="M7 17L17 7M17 7H7M17 7V17" />
-                  </svg>
-                </div>
-              </div>
-            </a>
-          ))}
+       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-5">
+  {services.map((service, index) => (
+    <a
+      key={index}
+      href={service.href}
+      className="group relative aspect-[4/3] overflow-hidden rounded-lg block"
+    >
+      <img
+        src={service.image}
+        alt={service.title}
+        className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+      />
+      <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
+      <div className="absolute bottom-0 left-0 right-0 p-4 lg:p-5 flex items-center justify-between">
+        <h3 className="text-white text-lg lg:text-xl font-semibold">
+          {service.title}
+        </h3>
+        <div className="w-8 h-8 lg:w-9 lg:h-9 rounded-full border-2 border-white/60 flex items-center justify-center group-hover:bg-white/20 transition-colors">
+          <svg
+            className="w-4 h-4 lg:w-4.5 lg:h-4.5 text-white"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            strokeWidth={2}
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              d="M7 17L17 7M17 7H7M17 7V17"
+            />
+          </svg>
         </div>
+      </div>
+    </a>
+  ))}
+</div>
       </div>
     </section>
   );
