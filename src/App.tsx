@@ -24,6 +24,10 @@ import FerryTerminalLimoService from "./components/Pages/FerryTerminalLimoServic
 import WineTour from "./components/Pages/WineTour";
 import HourlyService from "./components/Pages/HourlyService";
 import OurFleet from "./components/Pages/OurFleet";
+import Philadelphia from "./components/Pages/cities/Philadelphia";
+import Boston from "./components/Pages/cities/Boston";
+import WashingtonDC from "./components/Pages/cities/WashingtonDC";
+import Baltimore from "./components/Pages/cities/Baltimore";
 
 function Home() {
   return (
@@ -107,6 +111,20 @@ function App() {
             <Route
               path="/our-fleet"
               element={<OurFleet />}
+            />
+            <Route 
+            path="/cities/philadelphia"
+            element={<Philadelphia/>}
+            />
+            <Route 
+            path="/cities/boston"
+            element={<Boston/>}
+            />
+            <Route path="/cities/washington-dc"
+            element={<WashingtonDC/>}
+            />
+            <Route path="/cities/baltimore"
+            element={<Baltimore/>}
             />
           </Routes>
         </main>

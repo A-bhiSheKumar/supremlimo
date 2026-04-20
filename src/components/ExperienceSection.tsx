@@ -1,5 +1,5 @@
 import { Star } from 'lucide-react';
-
+import banner2 from '../assets/banner2.jpg';
 const ExperienceSection = () => {
   return (
     <section className="py-16 lg:py-24 bg-white">
@@ -74,7 +74,7 @@ const ExperienceSection = () => {
             {/* Main Image */}
             <div className="ml-16 mt-12">
               <img
-                src="https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&q=80"
+                src={banner2}
                 alt="Luxury Car Interior"
                 className="w-full h-[500px] object-cover rounded-lg shadow-lg"
               />

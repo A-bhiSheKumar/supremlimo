@@ -1,10 +1,11 @@
+import bannerimage from '../assets/banner1.jpg';
 const Hero = () => {
   return (
     <section className="relative h-[600px] lg:h-[700px] w-full overflow-hidden">
       {/* Background Image - Interior car with blue lighting */}
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=1920&q=80"
+          src={bannerimage}
           alt="Luxury car interior"
           className="w-full h-full object-cover"
         />

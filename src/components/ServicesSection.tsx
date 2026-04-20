@@ -1,6 +1,7 @@
+import image from '../assets/banner1.jpg';
 const ServicesSection = () => {
   const services = [
-    { title: 'Airport Transfers', image: 'https://images.unsplash.com/photo-1540962351504-03099e0a754a?w=600&h=400&fit=crop' },
+    { title: 'Airport Transfers', image: image },
     { title: 'Whistler Transfers', image: 'https://images.unsplash.com/photo-1551524559-8af4e6624178?w=600&h=400&fit=crop' },
     { title: 'Corporate Transportation', image: 'https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=600&h=400&fit=crop' },
     { title: 'Cruise Ship Transfers', image: 'https://images.unsplash.com/photo-1544148103-0773bf10d330?w=600&h=400&fit=crop' },
