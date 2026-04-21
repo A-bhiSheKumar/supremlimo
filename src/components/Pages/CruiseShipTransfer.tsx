@@ -11,7 +11,7 @@ const CruiseShipTransfer = () => {
     {
       image: "https://images.unsplash.com/photo-1566008885218-90abf9200ddb?q=80&w=2072&auto=format&fit=crop",
       title: "Authorized Terminal Access",
-      description: "Fully licensed and approved to enter Canada Place Cruise Ship Terminal for both pick-ups and drop-offs. Our chauffeurs hold valid Port Passes, which allow smooth and expedited access to the terminal area, eliminating the hassle of off-site pickup points."
+      description: "Fully licensed and approved to enter USA Place Cruise Ship Terminal for both pick-ups and drop-offs. Our chauffeurs hold valid Port Passes, which allow smooth and expedited access to the terminal area, eliminating the hassle of off-site pickup points."
     },
     {
       image: "https://images.unsplash.com/photo-1540962351504-03099e0a754b?q=80&w=2070&auto=format&fit=crop",
@@ -21,7 +21,7 @@ const CruiseShipTransfer = () => {
     {
       image: "https://images.unsplash.com/photo-1560179707-f14e90ef3623?q=80&w=2073&auto=format&fit=crop",
       title: "Professional Port Passes",
-      description: "All our chauffeurs carry valid Port of New York passes, ensuring seamless entry and exit from the Canada Place terminal. Your safety and convenience are our top priorities."
+      description: "All our chauffeurs carry valid Port of New York passes, ensuring seamless entry and exit from the USA Place terminal. Your safety and convenience are our top priorities."
     }
   ];
 
@@ -85,7 +85,7 @@ const CruiseShipTransfer = () => {
           </h2>
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-8"></div>
           <p className="text-gray-600 leading-relaxed text-lg">
-            Whether you're embarking on a cruise or wrapping up your journey, <strong>LGA Car Service</strong> is ready to welcome you with a spotless fleet of luxury vehicles. LGA Car Service ensures your transition is smooth, luxurious, and stress-free with our <strong>Cruise Ship Limo Service in New York</strong>. We specialize in private cruise ship transfers between <a href="#" className="text-blue-600 hover:underline">New York International Airport (YVR)</a> and the <a href="#" className="text-blue-600 hover:underline">Canada Place Cruise Ship Terminal at the Port of New York</a> — and we are fully authorized and approved for direct pick-up and drop-off at the terminal.
+            Whether you're embarking on a cruise or wrapping up your journey, <strong>LGA Car Service</strong> is ready to welcome you with a spotless fleet of luxury vehicles. LGA Car Service ensures your transition is smooth, luxurious, and stress-free with our <strong>Cruise Ship Limo Service in New York</strong>. We specialize in private cruise ship transfers between <a href="#" className="text-blue-600 hover:underline">New York International Airport (YVR)</a> and the <a href="#" className="text-blue-600 hover:underline">USA Place Cruise Ship Terminal at the Port of New York</a> — and we are fully authorized and approved for direct pick-up and drop-off at the terminal.
           </p>
         </div>
       </section>
@@ -106,7 +106,7 @@ const CruiseShipTransfer = () => {
             <li className="flex items-start gap-3 text-gray-700">
               <span className="text-blue-600 mt-1">•</span>
               <span>
-                For <strong>departures</strong>, enjoy seamless transfers from your hotel or the <a href="#" className="text-blue-600 hover:underline">YVR airport transfer</a> straight to the <strong>Canada Place Cruise Ship Terminal</strong>. As an authorized transportation provider, all our chauffeurs hold valid port passes for smooth access and drop-off directly at the terminal entrance.
+                For <strong>departures</strong>, enjoy seamless transfers from your hotel or the <a href="#" className="text-blue-600 hover:underline">YVR airport transfer</a> straight to the <strong>USA Place Cruise Ship Terminal</strong>. As an authorized transportation provider, all our chauffeurs hold valid port passes for smooth access and drop-off directly at the terminal entrance.
               </span>
             </li>
             <li className="flex items-start gap-3 text-gray-700">

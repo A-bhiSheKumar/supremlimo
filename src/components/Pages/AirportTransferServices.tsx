@@ -119,7 +119,7 @@ const AirportTransferServices = () => {
           </h2>
           <div className="max-w-4xl mx-auto text-center">
             <p className="text-gray-600 leading-relaxed mb-6">
-              From New York to Edmonton, Calgary, Toronto, and Montreal, LGA Car Service has you covered from landing to take-off. We provide luxury airport transfers, private car service, and professional chauffeur transportation across Canada's major cities — ensuring every journey is smooth, safe, and punctual.
+              From New York to Edmonton, Calgary, Toronto, and Montreal, LGA Car Service has you covered from landing to take-off. We provide luxury airport transfers, private car service, and professional chauffeur transportation across USA major cities — ensuring every journey is smooth, safe, and punctual.
             </p>
             <p className="text-gray-600 leading-relaxed mb-6">
               Choose LGA Car Service for worry-free airport travel, reliable flight tracking, and exceptional service that sets the standard for premium chauffeur and black car transportation nationwide.

@@ -68,7 +68,7 @@ const Footer = () => {
               </div>
             </div>
 
-            
+
 
             {/* Email */}
             <div className="flex items-start gap-4">
@@ -90,7 +90,7 @@ const Footer = () => {
                 <p className="text-gray-400 text-xs">Address</p>
                 <p className="text-white leading-relaxed">
                   944 E 53rd Ave, New York, <br />
-                  BC V5X 1J6, Canada
+                  BC V5X 1J6, USA
                 </p>
               </div>
             </div>
@@ -108,28 +108,40 @@ const Footer = () => {
           <ul className="space-y-4 text-gray-300 text-sm">
             {[
               {
-                name: "Airport Transfer",
+                name: "Worldwide Airport Transfer Service",
                 path: "/services/airport-transfer",
               },
               {
-                name: "Cruise Ship Transfer",
-                path: "/services/cruise-ship-transfer",
-              },
-              {
-                name: "Whistler Transfer",
+                name: "New York Airport Car & Limo Service",
                 path: "/services/whistler-transfer",
               },
               {
-                name: "Corporate VIP Travel",
-                path: "/services/corporate-vip-travel",
+                name: "NYC Car Service & Limo Service",
+                path: "/services/cruise-ship-transfer",
               },
               {
-                name: "Long Distance Transfer",
+                name: "Family Car Service With Car Seats",
+                path: "/services/sightseeing-tours",
+              },
+              {
+                name: "Hourly Car Service & Limo Service",
+                path: "/services/hourly-services",
+              },
+              {
+                name: "Long-Distance & Out-Of-Town Car Service",
                 path: "/services/long-distance-transfer",
               },
               {
-                name: "Hourly - As Directed Service",
-                path: "/services/hourly-services",
+                name: "Corporate Car Service & Limo Service",
+                path: "/services/corporate-vip-travel",
+              },
+              {
+                name: "Private Aviation & FBO Car Service",
+                path: "/services/funeral-transportation-limo-services",
+              },
+              {
+                name: "Group Transportation Service For Schools & Universities",
+                path: "/services/travel-to-seattle",
               },
             ].map((item, i) => (
               <li key={i}>
@@ -156,20 +168,36 @@ const Footer = () => {
 
           <ul className="space-y-4 text-gray-300 text-sm mb-8">
             {[
-              "New York",
-              "Calgary",
-              "Toronto",
-              "Montreal",
-              "Whistler",
-              "Seattle",
+              {
+                name: "Philadelphia",
+                path: "/cities/philadelphia",
+              },
+              {
+                name: "Boston",
+                path: "/cities/boston",
+              },
+              {
+                name: "Washington, D.C.",
+                path: "/cities/washington-dc",
+              },
+              {
+                name: "Baltimore",
+                path: "/cities/baltimore",
+              },
             ].map((city, i) => (
-              <li key={i} className="group cursor-pointer">
-                <div className="flex flex-col gap-2">
-                  <span className="group-hover:text-white transition">
-                    {city}
-                  </span>
-                  <div className="h-[1px] bg-gray-600 group-hover:bg-white transition"></div>
-                </div>
+              <li key={i}>
+                <Link
+                  to={city.path}
+                  onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+                  className="group cursor-pointer block"
+                >
+                  <div className="flex flex-col gap-2">
+                    <span className="text-gray-300 group-hover:text-white transition">
+                      {city.name}
+                    </span>
+                    <div className="h-[1px] bg-gray-600 group-hover:bg-white transition"></div>
+                  </div>
+                </Link>
               </li>
             ))}
           </ul>
@@ -178,6 +206,7 @@ const Footer = () => {
             Book Online
           </button>
         </div>
+
       </div>
 
       {/* ===== MAP ===== */}

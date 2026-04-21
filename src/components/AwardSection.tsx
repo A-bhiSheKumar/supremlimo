@@ -43,7 +43,7 @@ const AwardSection = () => {
                 travel experience defined by precision, professionalism, and personalized
                 service. Every ride is managed with care, ensuring punctuality, comfort,
                 and complete peace of mind. Recognized with over 200 five-star Google
-                reviews and honored as a 2025 Canadian Choice Award Winner, we proudly
+                reviews and honored as a 2025 American Choice Award Winner, we proudly
                 set the gold standard in luxury chauffeur service.
               </p>
             </div>
@@ -53,7 +53,7 @@ const AwardSection = () => {
           <div className="flex justify-center lg:justify-end">
             <img
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xmY_kgXhaWgz67d6e1ALkYOobu619iMkBQ&s"
-              alt="Canadian Choice Award Winner 2025"
+              alt="American Choice Award Winner 2025"
               className="w-[300px] lg:w-[380px] xl:w-[420px] object-contain"
             />
           </div>

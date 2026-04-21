@@ -28,7 +28,7 @@ const Hero = () => {
         <div className="flex items-center space-x-4 mb-10">
           <div className="w-20 md:w-32 h-0.5 bg-blue-500" />
           <p className="text-white text-sm md:text-base font-light tracking-wider uppercase text-[13px]">
-            Your Executive Transportation Partner Across Canada
+            Your Executive Transportation Partner Across USA
           </p>
           <div className="w-20 md:w-32 h-0.5 bg-blue-500" />
         </div>
