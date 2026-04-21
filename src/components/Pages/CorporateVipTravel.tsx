@@ -59,7 +59,7 @@ const CorporateVipTravel = () => {
               </button>
 
               <button className="border border-white text-white px-6 py-3 rounded-md font-medium w-full sm:w-auto transition-all duration-300 hover:bg-white hover:text-black">
-                Get Quote
+                    Call Us
               </button>
             </div>
           </div>

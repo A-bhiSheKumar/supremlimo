@@ -28,7 +28,7 @@ const Philadelphia: React.FC = () => {
                 Book Online
               </button>
               <button className="bg-white hover:bg-gray-100 text-gray-900 px-8 py-3 rounded font-medium transition-all duration-300">
-                Get Quote
+                    Call Us
               </button>
             </div>
           </div>

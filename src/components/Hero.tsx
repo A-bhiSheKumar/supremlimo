@@ -39,7 +39,7 @@ const Hero = () => {
             Book Online
           </button>
           <button className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3.5 rounded text-base font-medium transition-colors min-w-[160px]">
-            Get Quote
+           Call Us
           </button>
         </div>
       </div>

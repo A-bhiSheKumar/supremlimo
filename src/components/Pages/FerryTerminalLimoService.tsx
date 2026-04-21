@@ -29,7 +29,7 @@ const FerryTerminalLimoService = () => {
               </button>
 
               <button className="bg-white text-black px-6 py-3 rounded-md w-full sm:w-auto transition-all duration-300 hover:bg-gray-100">
-                Get Quote
+                    Call Us
               </button>
             </div>
           </div>
@@ -97,7 +97,7 @@ const FerryTerminalLimoService = () => {
               <span className="font-semibold">
                 Tsawwassen Ferry Terminal:
               </span>{" "}
-              Conveniently located just 30 minutes south of Vancouver, the
+              Conveniently located just 30 minutes south of New York, the
               Tsawwassen terminal offers frequent sailings to both Victoria and
               Nanaimo. With our limo service, you’ll arrive relaxed and on
               time, ready to board your ferry.

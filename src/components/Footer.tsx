@@ -89,7 +89,7 @@ const Footer = () => {
               <div>
                 <p className="text-gray-400 text-xs">Address</p>
                 <p className="text-white leading-relaxed">
-                  944 E 53rd Ave, Vancouver, <br />
+                  944 E 53rd Ave, New York, <br />
                   BC V5X 1J6, Canada
                 </p>
               </div>
@@ -156,7 +156,7 @@ const Footer = () => {
 
           <ul className="space-y-4 text-gray-300 text-sm mb-8">
             {[
-              "Vancouver",
+              "New York",
               "Calgary",
               "Toronto",
               "Montreal",
@@ -184,7 +184,7 @@ const Footer = () => {
       <div className="w-full h-[360px]">
         <iframe
           title="map"
-          src="https://www.google.com/maps?q=944+E+53rd+Ave+Vancouver&output=embed"
+          src="https://www.google.com/maps?q=944+E+53rd+Ave+New+York&output=embed"
           className="w-full h-full border-0"
           loading="lazy"
         ></iframe>

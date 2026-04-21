@@ -25,7 +25,7 @@ const ServicesSection = () => {
             We proudly offer our{' '}
             <a href="#" className="text-blue-600 hover:underline">corporate black car</a>,{' '}
             <a href="#" className="text-blue-600 hover:underline">executive transportation services</a>{' '}
-            and luxury shuttle service for events in Vancouver. With professional chauffeurs,
+            and luxury shuttle service for events in New York. With professional chauffeurs,
             a luxury fleet, and precise logistics, we ensures seamless travel for business,
             events, and VIP clients.
           </p>

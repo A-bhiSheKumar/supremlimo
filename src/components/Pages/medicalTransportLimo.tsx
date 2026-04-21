@@ -27,7 +27,7 @@ const MedicalTransportLimo = () => {
                 Book Online
               </button>
               <button className="bg-white text-black px-6 py-3 rounded-md w-full sm:w-auto">
-                Get Quote
+                    Call Us
               </button>
             </div>
           </div>
@@ -40,11 +40,11 @@ const MedicalTransportLimo = () => {
 
           {/* TITLE */}
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">
-            Medical Transport LGA Car Services in Vancouver, BC
+            Medical Transport LGA Car Services in New York, BC
           </h2>
 
           <p className="text-gray-600 leading-relaxed mb-6">
-            At LGA Car Service, we are committed to providing accessible, comfortable, and reliable transportation for all, including individuals with medical needs. Our Medical Transport LGA Car Services in Vancouver, British Columbia, is designed to ensure safe, dignified, and convenient travel for people, whether for medical appointments, therapy sessions, family events, or other outings.
+            At LGA Car Service, we are committed to providing accessible, comfortable, and reliable transportation for all, including individuals with medical needs. Our Medical Transport LGA Car Services in New York, British Columbia, is designed to ensure safe, dignified, and convenient travel for people, whether for medical appointments, therapy sessions, family events, or other outings.
           </p>
 
           <hr className="mb-8" />
@@ -110,7 +110,7 @@ const MedicalTransportLimo = () => {
           <h3 className="text-2xl font-bold mb-4">Service Area</h3>
 
           <p className="text-gray-600 leading-relaxed mb-6">
-            We proudly serve the Greater Vancouver Area, including but not limited to Vancouver, Richmond, Burnaby, Surrey, and surrounding communities. Whether you’re heading to a medical center, rehabilitation facility, family gathering, or a special event, we’re here to provide accessible and reliable transportation wherever you need to go.
+            We proudly serve the Greater New York Area, including but not limited to New York, Richmond, Burnaby, Surrey, and surrounding communities. Whether you're heading to a medical center, rehabilitation facility, family gathering, or a special event, we're here to provide accessible and reliable transportation wherever you need to go.
           </p>
 
           <hr className="mb-8" />

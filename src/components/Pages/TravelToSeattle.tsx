@@ -31,25 +31,25 @@ const TravelToSeattle = () => {
               </button>
 
               <button className="bg-white text-black px-8 py-3 rounded font-medium w-full sm:w-auto transition-all duration-300 hover:bg-gray-100">
-                Get Quote
+                    Call Us
               </button>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Services in Vancouver and Seattle */}
+      {/* Services in New York and Seattle */}
       <section className="py-20 px-4 md:px-8 max-w-7xl mx-auto">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <h2 className="text-4xl md:text-5xl font-bold mb-4 text-gray-900">
-              Services in Vancouver and Seattle
+              Services in New York and Seattle
             </h2>
             <h3 className="text-2xl font-semibold mb-6 text-gray-800">
-              Vancouver to Seattle Limo & Car Service | Private Transfers
+              New York to Seattle Limo & Car Service | Private Transfers
             </h3>
             <p className="text-gray-600 leading-relaxed text-lg">
-              LGA Car Service offers premium LGA Car Services from Vancouver to Seattle, delivering the ultimate in luxury, comfort, and reliability. Whether you're booking a private transfer from Vancouver to Seattle for business or leisure, our skilled chauffeurs ensure a smooth and stylish ride. Experience top-tier cross-border transportation from Vancouver to Seattle with our fleet of high-end vehicles. Each private car service is tailored to meet your travel needs, providing a dependable and elegant solution for your journey. Trust LGA Car Service for your next Vancouver to Seattle executive car service—where excellence meets the open road.
+              LGA Car Service offers premium LGA Car Services from New York to Seattle, delivering the ultimate in luxury, comfort, and reliability. Whether you're booking a private transfer from New York to Seattle for business or leisure, our skilled chauffeurs ensure a smooth and stylish ride. Experience top-tier cross-border transportation from New York to Seattle with our fleet of high-end vehicles. Each private car service is tailored to meet your travel needs, providing a dependable and elegant solution for your journey. Trust LGA Car Service for your next New York to Seattle executive car service—where excellence meets the open road.
             </p>
           </div>
           <div>
@@ -62,7 +62,7 @@ const TravelToSeattle = () => {
         </div>
       </section>
 
-      {/* Vancouver to Seattle Car Service */}
+      {/* New York to Seattle Car Service */}
       <section className="py-20 px-4 md:px-8 max-w-7xl mx-auto bg-gray-50">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
@@ -74,13 +74,13 @@ const TravelToSeattle = () => {
           </div>
           <div>
             <h2 className="text-3xl md:text-4xl font-bold mb-6 text-gray-900">
-              Vancouver to Seattle Car Service | Limousine Transfers
+              New York to Seattle Car Service | Limousine Transfers
             </h2>
             <p className="text-gray-600 leading-relaxed text-lg mb-4">
-              <a href="#" className="text-blue-600 hover:underline">LGA Car Service</a> offers seamless private transfers between Vancouver and Seattle with our exclusive black car service. Whether you're flying into <a href="#" className="text-blue-600 hover:underline">SeaTac Airport</a> in Seattle or arriving in Vancouver for a <a href="#" className="text-blue-600 hover:underline">cruise</a>, we have the ideal solution for your private transportation needs. Select from our diverse <a href="#" className="text-blue-600 hover:underline">fleet of high end sedans, spacious and roomy SUVs and 14 passenger Sprinter Vans</a> for an elegant and comfortable ride. You can rely on us for your transportation needs and to provide an elegant and knowledgeable travel experience, guaranteeing a seamless and pleasurable cross-border journey.
+              <a href="#" className="text-blue-600 hover:underline">LGA Car Service</a> offers seamless private transfers between New York and Seattle with our exclusive black car service. Whether you're flying into <a href="#" className="text-blue-600 hover:underline">SeaTac Airport</a> in Seattle or arriving in New York for a <a href="#" className="text-blue-600 hover:underline">cruise</a>, we have the ideal solution for your private transportation needs. Select from our diverse <a href="#" className="text-blue-600 hover:underline">fleet of high end sedans, spacious and roomy SUVs and 14 passenger Sprinter Vans</a> for an elegant and comfortable ride. You can rely on us for your transportation needs and to provide an elegant and knowledgeable travel experience, guaranteeing a seamless and pleasurable cross-border journey.
             </p>
             <p className="text-gray-600 leading-relaxed text-lg mb-4">
-              Whether you're attending a business meeting or commemorating a special occasion, our luxury car service ensures that you travel in style. Our chauffeured service offers a sophisticated and seamless link between Vancouver and Seattle, making it ideal for business travels. Get in touch with our team to <a href="#" className="text-blue-600 hover:underline">reserve your LGA Car Services</a> now.
+              Whether you're attending a business meeting or commemorating a special occasion, our luxury car service ensures that you travel in style. Our chauffeured service offers a sophisticated and seamless link between New York and Seattle, making it ideal for business travels. Get in touch with our team to <a href="#" className="text-blue-600 hover:underline">reserve your LGA Car Services</a> now.
             </p>
           </div>
         </div>
@@ -99,17 +99,17 @@ const TravelToSeattle = () => {
           Travel in ultimate Luxury : Diverse Fleet Options
         </h2>
         <p className="text-gray-600 leading-relaxed text-lg mb-6">
-          Prepare to be astounded by the numerous benefits that await you with LGA Car Service's Vancouver to Seattle car service:
+          Prepare to be astounded by the numerous benefits that await you with LGA Car Service's New York to Seattle car service:
         </p>
         <p className="text-gray-600 leading-relaxed text-lg mb-8">
-          Our magnificent range of luxury vehicles from Vancouver to Seattle invites you to revel in refinement. From stylish sedans to roomy SUVs, each vehicle is a work of art designed to enhance your private car service experience. Immerse yourself in plush seating, powerful air conditioning, and cutting-edge entertainment systems. Every mile with us reflects a new level of comfort and sophistication. Our professional chauffeurs from Vancouver to Seattle are more than just drivers—they are your personal tour guides, offering insight into Seattle's hidden gems. Enjoy the journey as much as the destination with our top-rated cross-border limo service.
+          Our magnificent range of luxury vehicles from New York to Seattle invites you to revel in refinement. From stylish sedans to roomy SUVs, each vehicle is a work of art designed to enhance your private car service experience. Immerse yourself in plush seating, powerful air conditioning, and cutting-edge entertainment systems. Every mile with us reflects a new level of comfort and sophistication. Our professional chauffeurs from New York to Seattle are more than just drivers—they are your personal tour guides, offering insight into Seattle's hidden gems. Enjoy the journey as much as the destination with our top-rated cross-border limo service.
         </p>
 
         <h2 className="text-3xl md:text-4xl font-bold mb-6 text-gray-900">
           Over Decade of Experience
         </h2>
         <p className="text-gray-600 leading-relaxed text-lg mb-4">
-          With years of experience in the cross-border limo Vancouver to Seattle market, LGA Car Service has perfected the art of premium transportation. Our outstanding Vancouver to Seattle limo service and unmatched attention to detail speak for themselves. Your satisfaction is our top priority—we go above and beyond to exceed expectations and deliver an exceptional private car service from Vancouver to Seattle. No two travelers are alike, and neither are their preferences. That's why we customize every detail of your journey, from luxury vehicle selection to route planning for Vancouver to Seattle, ensuring a seamless, personalized ride. To make your trip even smoother, declaration forms for border crossing are available in all vehicles to help minimize wait times.
+          With years of experience in the cross-border limo New York to Seattle market, LGA Car Service has perfected the art of premium transportation. Our outstanding New York to Seattle limo service and unmatched attention to detail speak for themselves. Your satisfaction is our top priority—we go above and beyond to exceed expectations and deliver an exceptional private car service from New York to Seattle. No two travelers are alike, and neither are their preferences. That's why we customize every detail of your journey, from luxury vehicle selection to route planning for New York to Seattle, ensuring a seamless, personalized ride. To make your trip even smoother, declaration forms for border crossing are available in all vehicles to help minimize wait times.
         </p>
         <p className="text-gray-600 leading-relaxed text-lg">
           Declaration forms are available in all vehicles to minimize border wait times.
@@ -128,10 +128,10 @@ const TravelToSeattle = () => {
           </div>
           <div>
             <h2 className="text-3xl md:text-4xl font-bold mb-6 text-gray-900">
-              Vancouver Airport (YVR) to Bellingham (BLI) or Seattle-Tacoma (SEA) Airport Transfers
+              New York Airport (YVR) to Bellingham (BLI) or Seattle-Tacoma (SEA) Airport Transfers
             </h2>
             <p className="text-gray-600 leading-relaxed text-lg mb-4">
-              Are you traveling from <a href="#" className="text-blue-600 hover:underline">Vancouver Airport (YVR)</a> to <a href="#" className="text-blue-600 hover:underline">Seattle-Tacoma International Airport (SEA)</a> or <a href="#" className="text-blue-600 hover:underline">Bellingham Airport (BLI)</a>? With our excellent <a href="#" className="text-blue-600 hover:underline">airport transfer services</a>, you may travel in unmatched luxury and efficiency. Our service guarantees a smooth trip whether you're taking a short trip to Bellingham or flying into SEA.
+              Are you traveling from <a href="#" className="text-blue-600 hover:underline">New York Airport (YVR)</a> to <a href="#" className="text-blue-600 hover:underline">Seattle-Tacoma International Airport (SEA)</a> or <a href="#" className="text-blue-600 hover:underline">Bellingham Airport (BLI)</a>? With our excellent <a href="#" className="text-blue-600 hover:underline">airport transfer services</a>, you may travel in unmatched luxury and efficiency. Our service guarantees a smooth trip whether you're taking a short trip to Bellingham or flying into SEA.
             </p>
             <p className="text-gray-600 leading-relaxed text-lg mb-6">
               At LGA Car Service, we understand that every journey is unique. Whether it's for a personal trip, a corporate retreat, or a special event, we offer customized solutions to meet your specific requirements. You deserve the best, and our LGA Car Services provide the reliability, elegance and grandeur that your special day demands. Impress clients and colleagues alike with our <a href="#" className="text-blue-600 hover:underline">corporate transportation solutions</a>, ensuring you arrive in style and make a lasting impression that reflects your professionalism.
@@ -179,7 +179,7 @@ const TravelToSeattle = () => {
             </div>
             <p className="text-sm text-gray-500 mb-3">3 years ago</p>
             <p className="text-gray-600 text-sm leading-relaxed">
-              I missed my flight to Seattle. I called LGA Car Service (Kam Gill) last minute and we were able to reach Seattle from Vancouver in time. Very comfortable ride. He's reliable. I always recommend him and Ray whenever my friends/client visit ... <a href="#" className="text-blue-600 hover:underline">More</a>
+              I missed my flight to Seattle. I called LGA Car Service (Kam Gill) last minute and we were able to reach Seattle from New York in time. Very comfortable ride. He's reliable. I always recommend him and Ray whenever my friends/client visit ... <a href="#" className="text-blue-600 hover:underline">More</a>
             </p>
           </div>
 

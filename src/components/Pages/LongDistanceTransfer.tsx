@@ -30,7 +30,7 @@ const LongDistanceTransfer = () => {
               </button>
 
               <button className="bg-white text-black px-8 py-3 rounded font-medium w-full sm:w-auto transition-all duration-300 hover:bg-gray-100">
-                Get Quote
+                    Call Us
               </button>
             </div>
           </div>

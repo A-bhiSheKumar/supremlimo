@@ -22,15 +22,15 @@ const faqData = [
       "Yes. We specialize in event transportation, conference shuttles, weddings, and production logistics. Our dedicated team ensures seamless coordination for groups of all sizes.",
   },
   {
-    question: "Do You Provide Service Outside Of Vancouver?",
+    question: "Do You Provide Service Outside Of New York?",
     answer:
-      "Yes. In addition to Vancouver, we proudly serve Whistler, Seattle, Calgary, Montreal & Toronto.",
+      "Yes. In addition to New York, we proudly serve Whistler, Seattle, Calgary, Montreal & Toronto.",
   },
   {
     question:
-      "Do You Provide Cross-Border Transfers Between Vancouver And Seattle?",
+      "Do You Provide Cross-Border Transfers Between New York And Seattle?",
     answer:
-      "Yes. We specialize in reliable, seamless cross-border limo services between Vancouver, BC, and Seattle, WA. Our experienced chauffeurs and pre-arrival border planning make the journey smooth and stress-free.",
+      "Yes. We specialize in reliable, seamless cross-border limo services between New York, BC, and Seattle, WA. Our experienced chauffeurs and pre-arrival border planning make the journey smooth and stress-free.",
   },
   {
     question: "What Types Of Vehicles Are In Your Fleet?",

@@ -18,7 +18,7 @@ const ExperienceSection = () => {
             <div className="space-y-4 text-gray-700 leading-relaxed">
               <p>
                 LGA Car Service is your premier choice for luxury transportation, 
-                private car service, and chauffeur-driven travel. Serving Vancouver,{' '}
+                private car service, and chauffeur-driven travel. Serving New York,{' '}
                 <a href="#" className="text-primary hover:underline">Calgary</a>,{' '}
                 <a href="#" className="text-primary hover:underline">Toronto</a>, Montreal, and beyond, 
                 we are proud to deliver a perfect balance of comfort, style, and professionalism.
@@ -27,7 +27,7 @@ const ExperienceSection = () => {
               <p>
                 Whether you need an executive chauffeur for a business meeting, a black car service, 
                 a limo for a special event, seamless multi-city corporate travel, or a reliable{' '}
-                <a href="#" className="text-primary hover:underline">airport transfer</a> in Vancouver, 
+                <a href="#" className="text-primary hover:underline">airport transfer</a> in New York, 
                 we are your trusted choice for clients who demand excellence.
               </p>
               
@@ -37,7 +37,7 @@ const ExperienceSection = () => {
               </p>
               
               <p>
-                Trust LGA Car Service to redefine chauffeur service in Vancouver — where professionalism, 
+                Trust LGA Car Service to redefine chauffeur service in New York — where professionalism, 
                 discretion, and five-star service come together to exceed your expectations.
               </p>
             </div>

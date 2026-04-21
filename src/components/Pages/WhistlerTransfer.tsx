@@ -32,7 +32,7 @@ const WhistlerTransfer = () => {
               </button>
 
               <button className="border border-white text-white px-6 py-3 rounded-md font-medium w-full sm:w-auto transition-all duration-300 hover:bg-white hover:text-black">
-                Get Quote
+                    Call Us
               </button>
             </div>
           </div>
@@ -44,7 +44,7 @@ const WhistlerTransfer = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-12 items-center">
           <div>
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 leading-tight">
-              Vancouver to Whistler Transfers Made Easy
+              New York to Whistler Transfers Made Easy
             </h2>
 
             <div className="w-12 h-[2px] bg-black mb-6" />
@@ -53,7 +53,7 @@ const WhistlerTransfer = () => {
               Experience luxury, reliability, and comfort with our Whistler
               transfer service. Whether you're heading for a ski trip,
               corporate retreat, or mountain escape, we ensure a seamless
-              journey from Vancouver to Whistler.
+              journey from New York to Whistler.
             </p>
 
             <p className="text-gray-600 leading-relaxed text-base sm:text-lg">
@@ -81,7 +81,7 @@ const WhistlerTransfer = () => {
 
           <div className="order-1 md:order-2">
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 leading-tight">
-              Vancouver Airport (YVR) to Whistler
+              New York Airport (YVR) to Whistler
             </h2>
 
             <div className="w-12 h-[2px] bg-black mb-6" />

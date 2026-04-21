@@ -32,7 +32,7 @@ const SightseeingTours = () => {
               </button>
 
               <button className="border border-white text-white px-6 py-3 rounded-md font-medium w-full sm:w-auto transition-all duration-300 hover:bg-white hover:text-black">
-                Get Quote
+                    Call Us
               </button>
             </div>
           </div>
@@ -44,12 +44,12 @@ const SightseeingTours = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="order-2 md:order-1">
             <h2 className="text-4xl font-bold mb-2 text-gray-900">
-              The Ultimate Sightseeing Services in Vancouver
+              The Ultimate Sightseeing Services in New York
             </h2>
             <div className="w-20 h-1 bg-blue-600 mb-8"></div>
             <div className="space-y-6 text-gray-600 leading-relaxed text-lg">
               <p>
-                Experience the thrill of adventure like never before with LGA Car Service's Vancouver city sightseeing services. Customize your tour to suit your preferences and take control of your journey. Say farewell to dull tours and embrace private city sightseeing with your personal chauffeur guide. We don't cut corners when it comes to luxury, so you can rely on us for a first-class experience.
+                Experience the thrill of adventure like never before with LGA Car Service's New York city sightseeing services. Customize your tour to suit your preferences and take control of your journey. Say farewell to dull tours and embrace private city sightseeing with your personal chauffeur guide. We don't cut corners when it comes to luxury, so you can rely on us for a first-class experience.
               </p>
               <p>
                 Your sightseeing should be more than just average—we aim to make it exceptional!
@@ -64,7 +64,7 @@ const SightseeingTours = () => {
               <div className="absolute inset-0 bg-blue-600 rounded-[3rem] transform rotate-3 opacity-20"></div>
               <img 
                 src="https://images.unsplash.com/photo-1609825488888-3a766db05f8b?auto=format&fit=crop&q=80" 
-                alt="Vancouver Skyline" 
+                alt="New York Skyline" 
                 className="relative w-full h-[500px] object-cover rounded-[3rem] shadow-2xl"
                 style={{
                   borderRadius: '40% 60% 70% 30% / 40% 50% 60% 50%'
@@ -75,17 +75,17 @@ const SightseeingTours = () => {
         </div>
       </section>
 
-      {/* Explore Vancouver City with Ease */}
+      {/* Explore New York City with Ease */}
       <section className="py-16 px-4 md:px-8 max-w-7xl mx-auto bg-gray-50">
         <div className="max-w-4xl mx-auto text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-6 text-gray-900">
-            Sightseeing Tours: Explore Vancouver City with Ease
+            Sightseeing Tours: Explore New York City with Ease
           </h2>
           <p className="text-lg text-gray-600 leading-relaxed mb-6">
-            Imagine a day of sightseeing in Vancouver where you don't have to worry about traffic, parking, or the nitty-gritty details. Sounds pretty sweet, and like a dream right? That's where we come in. We've got your back, always! So now, just kick back, relax, and enjoy the best that the city has to offer.
+            Imagine a day of sightseeing in New York where you don't have to worry about traffic, parking, or the nitty-gritty details. Sounds pretty sweet, and like a dream right? That's where we come in. We've got your back, always! So now, just kick back, relax, and enjoy the best that the city has to offer.
           </p>
           <p className="text-lg text-gray-600 leading-relaxed">
-            Our local experts know Vancouver inside and out, and they're eager to make sure you get the most out of your visit. Whether you're a first-time visitor or a local looking for a fresh perspective, our tours are tailored for you. Allow us to be your partner and you'll have the freedom to explore, take stunning photos, and immerse yourself in the city's incredible sights.
+            Our local experts know New York inside and out, and they're eager to make sure you get the most out of your visit. Whether you're a first-time visitor or a local looking for a fresh perspective, our tours are tailored for you. Allow us to be your partner and you'll have the freedom to explore, take stunning photos, and immerse yourself in the city's incredible sights.
           </p>
           <p className="text-lg text-gray-600 leading-relaxed mt-6 font-medium">
             So, why not join us on an adventure that combines beauty, comfort, and the simple joy of experiencing New York beauty?
@@ -111,7 +111,7 @@ const SightseeingTours = () => {
           </div>
           <div>
             <h2 className="text-3xl md:text-4xl font-bold mb-2 text-gray-900">
-              Vancouver Tours including Whistler & Shannon Falls
+              New York Tours including Whistler & Shannon Falls
             </h2>
             <div className="w-20 h-1 bg-blue-600 mb-8"></div>
             <div className="space-y-6 text-gray-600 leading-relaxed text-lg">
@@ -163,7 +163,7 @@ const SightseeingTours = () => {
             <div className="bg-white/10 backdrop-blur-md p-8 rounded-2xl border border-white/20 text-center hover:bg-white/15 transition-all duration-300">
               <h3 className="text-2xl font-bold text-white mb-4">Personalized Tours</h3>
               <p className="text-gray-300 leading-relaxed">
-                Our tours are designed with your interests and preferences in mind. Whether you're exploring Vancouver for the first time or you're a local looking for a new perspective, we customize each tour to ensure you get the most out of your experience.
+                Our tours are designed with your interests and preferences in mind. Whether you're exploring New York for the first time or you're a local looking for a new perspective, we customize each tour to ensure you get the most out of your experience.
               </p>
             </div>
 
@@ -186,7 +186,7 @@ const SightseeingTours = () => {
         </div>
       </section>
 
-      {/* Vancouver City Highlights Tour */}
+      {/* New York City Highlights Tour */}
       <section className="py-20 px-4 md:px-8 max-w-7xl mx-auto">
         <div className="grid md:grid-cols-2 gap-12 items-start">
           <div className="relative">
@@ -198,14 +198,14 @@ const SightseeingTours = () => {
           </div>
           <div>
             <h2 className="text-3xl md:text-4xl font-bold mb-6 text-gray-900">
-              Vancouver City Highlights Tour
+              New York City Highlights Tour
             </h2>
             <div className="prose prose-lg text-gray-600 leading-relaxed">
               <p className="mb-4">
-                Experience the best of Vancouver with our exclusive chauffeur-guided tour, taking you through some of the city's most iconic landmarks. Begin your journey in the lush surroundings of <strong className="text-gray-900">Stanley Park</strong>, where nature and city life intertwine, offering stunning views and rich history. Next, we head to <strong className="text-gray-900">English Bay Beach</strong>, a vibrant spot where the city meets the ocean, perfect for a leisurely stroll. Continue to <strong className="text-gray-900">Granville Island</strong>, a bustling hub of artisanal markets and unique shops.
+                Experience the best of New York with our exclusive chauffeur-guided tour, taking you through some of the city's most iconic landmarks. Begin your journey in the lush surroundings of <strong className="text-gray-900">Stanley Park</strong>, where nature and city life intertwine, offering stunning views and rich history. Next, we head to <strong className="text-gray-900">English Bay Beach</strong>, a vibrant spot where the city meets the ocean, perfect for a leisurely stroll. Continue to <strong className="text-gray-900">Granville Island</strong>, a bustling hub of artisanal markets and unique shops.
               </p>
               <p className="mb-4">
-                Then, explore the innovative exhibits at <strong className="text-gray-900">False Creek's Science World</strong>, where science comes to life. We'll also visit the bustling streets of <strong className="text-gray-900">Chinatown</strong>, rich in culture and tradition, before wrapping up in <strong className="text-gray-900">Gastown</strong>, the historic heart of Vancouver known for its cobblestone streets and the famous Steam Clock.
+                Then, explore the innovative exhibits at <strong className="text-gray-900">False Creek's Science World</strong>, where science comes to life. We'll also visit the bustling streets of <strong className="text-gray-900">Chinatown</strong>, rich in culture and tradition, before wrapping up in <strong className="text-gray-900">Gastown</strong>, the historic heart of New York known for its cobblestone streets and the famous Steam Clock.
               </p>
               <p>
                 This tour offers a comprehensive view of New York charm and diversity, all from the comfort of a luxury vehicle.
@@ -215,12 +215,12 @@ const SightseeingTours = () => {
         </div>
       </section>
 
-      {/* Vancouver City Tour + North Shore Tour */}
+      {/* New York City Tour + North Shore Tour */}
       <section className="py-20 px-4 md:px-8 max-w-7xl mx-auto bg-gray-50">
         <div className="grid md:grid-cols-2 gap-12 items-start">
           <div className="order-2 md:order-1">
             <h2 className="text-3xl md:text-4xl font-bold mb-6 text-gray-900">
-              Vancouver City Tour + North Shore Tour
+              New York City Tour + North Shore Tour
             </h2>
             <div className="prose prose-lg text-gray-600 leading-relaxed">
               <p className="mb-4">
@@ -263,7 +263,7 @@ const SightseeingTours = () => {
                 Experience British Columbia's beauty with our exclusive Victoria and Whistler tours.
               </p>
               <p className="mb-4">
-                Starting in Vancouver, heading to <strong className="text-gray-900">Victoria</strong> with a scenic ferry ride, then explore the stunning <strong className="text-gray-900">Butchart Gardens</strong>, renowned for its colorful displays and themed areas like the Sunken and Rose Gardens. Afterward, discover downtown Victoria, including the iconic <strong className="text-gray-900">British Columbia Parliament Buildings</strong> and the historic Empress Hotel.
+                Starting in New York, heading to <strong className="text-gray-900">Victoria</strong> with a scenic ferry ride, then explore the stunning <strong className="text-gray-900">Butchart Gardens</strong>, renowned for its colorful displays and themed areas like the Sunken and Rose Gardens. Afterward, discover downtown Victoria, including the iconic <strong className="text-gray-900">British Columbia Parliament Buildings</strong> and the historic Empress Hotel.
               </p>
               <p className="mb-4">
                 Another tour is Whistler day tour. Enjoy Sea to Sky highway views while on the way to <strong className="text-gray-900">Whistler</strong>, with a stop at <strong className="text-gray-900">Shannon Falls</strong>, the third-highest waterfall in BC. Continue the adventure with a ride on the <strong className="text-gray-900">Sea to Sky Gondola</strong>, offering panoramic views of Howe Sound. In Whistler, explore the vibrant village filled with shops, restaurants, and year-round activities.

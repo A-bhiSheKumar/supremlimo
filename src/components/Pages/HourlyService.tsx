@@ -31,7 +31,7 @@ const HourlyService = () => {
               </button>
 
               <button className="bg-white text-black px-6 py-3 rounded-md w-full sm:w-auto transition-all duration-300 hover:bg-gray-100">
-                Get Quote
+                    Call Us
               </button>
             </div>
           </div>
@@ -62,7 +62,7 @@ xx{/* MAIN CONTENT */}
     </p>
 
     <p className="text-gray-700 leading-relaxed text-base sm:text-lg mb-8">
-      Whether you’re in Vancouver, Calgary, Toronto, or Montreal, enjoy the freedom of traveling on your own schedule with a private, luxury vehicle and a dedicated chauffeur by your side.
+      Whether you’re in New York, Calgary, Toronto, or Montreal, enjoy the freedom of traveling on your own schedule with a private, luxury vehicle and a dedicated chauffeur by your side.
     </p>
 
     <h3 className="text-2xl sm:text-3xl font-bold mb-6">

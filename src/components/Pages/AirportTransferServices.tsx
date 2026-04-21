@@ -31,7 +31,7 @@ const AirportTransferServices = () => {
                 Book Online
               </button>
               <button className="bg-white hover:bg-gray-100 text-gray-900 px-8 py-3 rounded font-medium transition-all duration-300">
-                Get Quote
+                    Call Us
               </button>
             </div>
           </div>
@@ -51,14 +51,14 @@ const AirportTransferServices = () => {
             </div>
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-                The reliability of airport transfers awaits you in Vancouver
+                The reliability of airport transfers awaits you in New York
               </h2>
               <div className="w-16 h-1 bg-blue-600 mb-6"></div>
               <p className="text-gray-600 leading-relaxed mb-4">
-                LGA Car Service is happy to be your dependable <a href="#" className="text-blue-600 hover:underline">airport transfer</a> company in Vancouver, committed to make travel as easy as possible. Our services are designed to provide speedy and convenient transportation to and from the airport, reducing the stress of transportation logistics.
+                LGA Car Service is happy to be your dependable <a href="#" className="text-blue-600 hover:underline">airport transfer</a> company in New York, committed to make travel as easy as possible. Our services are designed to provide speedy and convenient transportation to and from the airport, reducing the stress of transportation logistics.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                With a diverse fleet of <a href="#" className="text-blue-600 hover:underline">sedans, SUVs, and Sprinter vans</a>, we provide a range of solutions to fit your travel requirements. Our skilled drivers value punctuality and professionalism when navigating Vancouver. LGA Car Service will be ready to carry you luxuriously and safely to your destination as soon as your flight lands. Our <a href="#" className="text-blue-600 hover:underline">airport transfer</a> service provides you with peace of mind and efficiency, making it your doorway to stress-free travel.
+                With a diverse fleet of <a href="#" className="text-blue-600 hover:underline">sedans, SUVs, and Sprinter vans</a>, we provide a range of solutions to fit your travel requirements. Our skilled drivers value punctuality and professionalism when navigating New York. LGA Car Service will be ready to carry you luxuriously and safely to your destination as soon as your flight lands. Our <a href="#" className="text-blue-600 hover:underline">airport transfer</a> service provides you with peace of mind and efficiency, making it your doorway to stress-free travel.
               </p>
             </div>
           </div>
@@ -119,13 +119,13 @@ const AirportTransferServices = () => {
           </h2>
           <div className="max-w-4xl mx-auto text-center">
             <p className="text-gray-600 leading-relaxed mb-6">
-              From Vancouver to Edmonton, Calgary, Toronto, and Montreal, LGA Car Service has you covered from landing to take-off. We provide luxury airport transfers, private car service, and professional chauffeur transportation across Canada's major cities — ensuring every journey is smooth, safe, and punctual.
+              From New York to Edmonton, Calgary, Toronto, and Montreal, LGA Car Service has you covered from landing to take-off. We provide luxury airport transfers, private car service, and professional chauffeur transportation across Canada's major cities — ensuring every journey is smooth, safe, and punctual.
             </p>
             <p className="text-gray-600 leading-relaxed mb-6">
               Choose LGA Car Service for worry-free airport travel, reliable flight tracking, and exceptional service that sets the standard for premium chauffeur and black car transportation nationwide.
             </p>
             <p className="text-gray-600 leading-relaxed mb-4">
-              LGA Car Service operates around the clock, providing transportation to and from <a href="#" className="text-blue-600 hover:underline">Vancouver International Airport (YVR), South Terminal</a>, and Private FBO. Additionally, our services extend to <a href="#" className="text-blue-600 hover:underline">Abbotsford Airport (YXX)</a>, <a href="#" className="text-blue-600 hover:underline">Calgary Airport (YYC)</a>, <a href="#" className="text-blue-600 hover:underline">Montreal Airport (YUL)</a>, <a href="#" className="text-blue-600 hover:underline">Toronto Airport (YYZ)</a>, <a href="#" className="text-blue-600 hover:underline">Bellingham Airport (BLI)</a>, and <a href="#" className="text-blue-600 hover:underline">Sea-Tac Airport (SEA)</a>.
+              LGA Car Service operates around the clock, providing transportation to and from <a href="#" className="text-blue-600 hover:underline">New York International Airport (YVR), South Terminal</a>, and Private FBO. Additionally, our services extend to <a href="#" className="text-blue-600 hover:underline">Abbotsford Airport (YXX)</a>, <a href="#" className="text-blue-600 hover:underline">Calgary Airport (YYC)</a>, <a href="#" className="text-blue-600 hover:underline">Montreal Airport (YUL)</a>, <a href="#" className="text-blue-600 hover:underline">Toronto Airport (YYZ)</a>, <a href="#" className="text-blue-600 hover:underline">Bellingham Airport (BLI)</a>, and <a href="#" className="text-blue-600 hover:underline">Sea-Tac Airport (SEA)</a>.
             </p>
             <p className="text-gray-900 font-medium text-lg">
               Experience the difference — coast to coast, comfort to confidence.
@@ -154,7 +154,7 @@ const AirportTransferServices = () => {
                 Whether you're hiring from an FBO or renting directly from an airport, LGA Car Service ensures a safer, faster, and easier experience. Our team caters to the unique needs of private aviation travelers, providing a dependable and luxurious car rental service that stands out for its convenience and reliability. With LGA Car Service, you can expect seamless transportation as soon as you land at <a href="#" className="text-blue-600 hover:underline">Signature Aviation</a>, <a href="#" className="text-blue-600 hover:underline">Sky Service FBO</a> or <a href="#" className="text-blue-600 hover:underline">Million Air</a> making your ground transportation journey as smooth as possible from start to finish.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                With LGA Car Service, you're covered from landing to take-off. Trust us for your airport transfer needs and experience the unrivaled reliability of Vancouver airport transfers.
+                With LGA Car Service, you're covered from landing to take-off. Trust us for your airport transfer needs and experience the unrivaled reliability of New York airport transfers.
               </p>
             </div>
           </div>
@@ -177,7 +177,7 @@ const AirportTransferServices = () => {
                 Our VIP Meet & Greet service is designed to provide you with comfort and ease, making each aspect of your airport journey stress-free. Whether you're arriving, departing, or transferring, our greeter is there to handle logistics so that you can relax and focus on your travels. With LGA Car Service, enjoy an elevated travel experience that's tailored to meet the needs of discerning travelers seeking a seamless airport transition.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                With LGA Car Service, you're covered from landing to take-off. Trust us for your airport transfer needs and experience the unrivaled reliability of Vancouver airport transfers.
+                With LGA Car Service, you're covered from landing to take-off. Trust us for your airport transfer needs and experience the unrivaled reliability of New York airport transfers.
               </p>
             </div>
             <div className="relative order-1 md:order-2">

@@ -30,7 +30,7 @@ const FuneralTransportationLimoServices = () => {
               </button>
 
               <button className="bg-white text-black px-6 py-3 rounded-md w-full sm:w-auto transition-all duration-300 hover:bg-gray-100">
-                Get Quote
+                    Call Us
               </button>
             </div>
           </div>

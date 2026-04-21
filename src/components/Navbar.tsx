@@ -7,7 +7,7 @@ const Navbar = () => {
   const [citiesDropdown, setCitiesDropdown] = useState(false);
 
   const navLinks = [
-    { name: 'Home', href: '#', active: true },
+    { name: 'Home', href: '/', active: true },
     {
       name: 'Our Services',
       href: '#services',
@@ -20,7 +20,7 @@ const Navbar = () => {
       //   { name: 'Event Transportation Services', href: '/services/event-transportation-support-services' },
       //   { name: 'Sightseeing Tours', href: '/services/sightseeing-tours' },
       //   { name: 'Medical Transport Limo', href: '/services/medical-transport-limo' },
-      //   { name: 'Vancouver to Seattle Transfers', href: '/services/travel-to-seattle' },
+      //   { name: 'New York to Seattle Transfers', href: '/services/travel-to-seattle' },
       //   { name: 'Funeral Transportation Limo Services', href: '/services/funeral-transportation-limo-services' },
       //   { name: 'Ferry Terminal Limo Service', href: '/services/ferry-terminal-limo-service' },
       //   { name: 'Wine Tour Limo Services', href: '/services/wine-tour-limo-services' },
@@ -40,6 +40,7 @@ const Navbar = () => {
       ]
     },
     { name: 'Our Fleet', href: '/our-fleet' },
+    {name: "Contact Us", href: "/contact-us"},
     {
       name: 'Cities',
       href: '#cities',
@@ -106,10 +107,6 @@ const Navbar = () => {
             <a href="mailto:reservations@lgacarservice.com" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
               <Mail size={16} className="mr-2" />
               reservations@lgacarservice.com
-            </a>
-              <a href="/contact-us" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
-              {/* <Phone size={16} className="mr-2" /> */}
-              Contact Us
             </a>
             <a href="tel:+1-800-000-0000" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
               <Phone size={16} className="mr-2" />

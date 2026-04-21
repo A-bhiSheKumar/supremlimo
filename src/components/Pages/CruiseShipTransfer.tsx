@@ -21,7 +21,7 @@ const CruiseShipTransfer = () => {
     {
       image: "https://images.unsplash.com/photo-1560179707-f14e90ef3623?q=80&w=2073&auto=format&fit=crop",
       title: "Professional Port Passes",
-      description: "All our chauffeurs carry valid Port of Vancouver passes, ensuring seamless entry and exit from the Canada Place terminal. Your safety and convenience are our top priorities."
+      description: "All our chauffeurs carry valid Port of New York passes, ensuring seamless entry and exit from the Canada Place terminal. Your safety and convenience are our top priorities."
     }
   ];
 
@@ -70,7 +70,7 @@ const CruiseShipTransfer = () => {
                 Book Online
               </button>
               <button className="bg-white hover:bg-gray-100 text-gray-900 px-8 py-3 rounded font-medium transition-all duration-300">
-                Get Quote
+                    Call Us
               </button>
             </div>
           </div>
@@ -81,11 +81,11 @@ const CruiseShipTransfer = () => {
       <section className="py-16 md:py-24 bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-            Cruise Ship Limo Service in Vancouver
+            Cruise Ship Limo Service in New York
           </h2>
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-8"></div>
           <p className="text-gray-600 leading-relaxed text-lg">
-            Whether you're embarking on a cruise or wrapping up your journey, <strong>LGA Car Service</strong> is ready to welcome you with a spotless fleet of luxury vehicles. LGA Car Service ensures your transition is smooth, luxurious, and stress-free with our <strong>Cruise Ship Limo Service in Vancouver</strong>. We specialize in private cruise ship transfers between <a href="#" className="text-blue-600 hover:underline">Vancouver International Airport (YVR)</a> and the <a href="#" className="text-blue-600 hover:underline">Canada Place Cruise Ship Terminal at the Port of Vancouver</a> — and we are fully authorized and approved for direct pick-up and drop-off at the terminal.
+            Whether you're embarking on a cruise or wrapping up your journey, <strong>LGA Car Service</strong> is ready to welcome you with a spotless fleet of luxury vehicles. LGA Car Service ensures your transition is smooth, luxurious, and stress-free with our <strong>Cruise Ship Limo Service in New York</strong>. We specialize in private cruise ship transfers between <a href="#" className="text-blue-600 hover:underline">New York International Airport (YVR)</a> and the <a href="#" className="text-blue-600 hover:underline">Canada Place Cruise Ship Terminal at the Port of New York</a> — and we are fully authorized and approved for direct pick-up and drop-off at the terminal.
           </p>
         </div>
       </section>
@@ -99,7 +99,7 @@ const CruiseShipTransfer = () => {
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-8"></div>
           
           <p className="text-gray-600 leading-relaxed text-center mb-8 text-lg">
-            Whether you're just arriving in Vancouver or preparing to set sail, <a href="#" className="text-blue-600 hover:underline">LGA Car Service</a> ensures your cruise ship private transfer experience is smooth, stylish, and stress-free. Our professionally maintained vehicles and experienced chauffeurs provide a relaxed, efficient ride to your next destination. Whether you're heading to the airport, hotel, or a <a href="#" className="text-blue-600 hover:underline">sightseeing tour</a>, we make your transition from sea to land effortless and elegant.
+              Whether you're just arriving in New York or preparing to set sail, <a href="#" className="text-blue-600 hover:underline">LGA Car Service</a> ensures your cruise ship private transfer experience is smooth, stylish, and stress-free. Our professionally maintained vehicles and experienced chauffeurs provide a relaxed, efficient ride to your next destination. Whether you're heading to the airport, hotel, or a <a href="#" className="text-blue-600 hover:underline">sightseeing tour</a>, we make your transition from sea to land effortless and
           </p>
 
           <ul className="space-y-4 max-w-4xl mx-auto">
@@ -208,7 +208,7 @@ const CruiseShipTransfer = () => {
             </h3>
             <div className="w-20 h-1 bg-blue-600 mx-auto mb-6"></div>
             <p className="text-gray-600 leading-relaxed text-center max-w-4xl mx-auto">
-              Make the most of your time in Vancouver with <strong>LGA Car Service's professional chauffeurs</strong>, who specialize in pre- and post-cruise sightseeing tours. Whether you have a few hours before embarkation or a couple of days after your cruise, our knowledgeable chauffeurs transform every moment into a memorable experience. Make the most of your time in Vancouver without the hassle of finding multiple transportation options. Enjoy door-to-door service that ensures a comfortable and stress-free journey, so you can focus on making memories.
+              Make the most of your time in New York with <strong>LGA Car Service's professional chauffeurs</strong>, who specialize in pre- and post-cruise sightseeing tours. Whether you have a few hours before embarkation or a couple of days after your cruise, our knowledgeable chauffeurs transform every moment into a memorable experience. Make the most of your time in New York without the hassle of finding multiple transportation options. Enjoy door-to-door service that ensures a comfortable and stress-free journey, so you can focus on making memories.
             </p>
           </div>
 
@@ -223,7 +223,7 @@ const CruiseShipTransfer = () => {
             <div className="text-center">
               <h4 className="text-2xl font-bold text-gray-900 mb-4">Stanley Park</h4>
               <p className="text-gray-600 leading-relaxed">
-                This 1,000-acre natural oasis is a must-see in Vancouver. Enjoy views of the waterfront, take a stroll along the seawall, or stop by the famous Totem Poles and Prospect Point for stunning photos.
+                This 1,000-acre natural oasis is a must-see in New York. Enjoy views of the waterfront, take a stroll along the seawall, or stop by the famous Totem Poles and Prospect Point for stunning photos.
               </p>
             </div>
             <div className="text-center">
@@ -251,17 +251,17 @@ const CruiseShipTransfer = () => {
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-8"></div>
           
           <p className="text-gray-600 leading-relaxed mb-6">
-            For those continuing their journey to Seattle, <strong>LGA Car Service</strong> offers cross-border transfers directly from the <strong>Vancouver cruise terminal</strong>. Travel in style and comfort as our experienced chauffeurs handle the drive, navigating border crossings with ease. Enjoy a smooth, direct route to <a href="#" className="text-blue-600 hover:underline">Seattle-Tacoma International Airport (SEA)</a> or your next destination in Seattle, giving you more time to relax and less time worrying about logistics. We have drivers with Nexus for <a href="#" className="text-blue-600 hover:underline">Vancouver to Seattle Private Transfer</a> available as well.
+            For those continuing their journey to Seattle, <strong>LGA Car Service</strong> offers cross-border transfers directly from the <strong>New York cruise terminal</strong>. Travel in style and comfort as our experienced chauffeurs handle the drive, navigating border crossings with ease. Enjoy a smooth, direct route to <a href="#" className="text-blue-600 hover:underline">Seattle-Tacoma International Airport (SEA)</a> or your next destination in Seattle, giving you more time to relax and less time worrying about logistics. We have drivers with Nexus for <a href="#" className="text-blue-600 hover:underline">New York to Seattle Private Transfer</a> available as well.
           </p>
 
           <ul className="text-left max-w-2xl mx-auto space-y-3 mb-8">
             <li className="flex items-center gap-2 text-blue-600">
               <span className="text-lg">⇄</span>
-              <a href="#" className="hover:underline font-medium">Vancouver ⇄ Seattle Private Transfer <span className="text-gray-600 italic">(Direct to SEA Airport, Seattle hotels, or homes)</span></a>
+              <a href="#" className="hover:underline font-medium">New York ⇄ Seattle Private Transfer <span className="text-gray-600 italic">(Direct to SEA Airport, Seattle hotels, or homes)</span></a>
             </li>
             <li className="flex items-center gap-2 text-blue-600">
               <span className="text-lg">⇄</span>
-              <a href="#" className="hover:underline font-medium">Vancouver ⇄ Bellingham Private Transfer</a>
+              <a href="#" className="hover:underline font-medium">New York ⇄ Bellingham Private Transfer</a>
             </li>
             <li className="flex items-center gap-2 text-blue-600">
               <span className="text-lg">•</span>
@@ -280,7 +280,7 @@ const CruiseShipTransfer = () => {
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-8"></div>
           
           <p className="text-gray-600 leading-relaxed mb-6">
-            LGA Car Service is dedicated to providing exceptional service for cruise passengers visiting Vancouver. From luxury vehicles to professional drivers, we prioritize safety, comfort, and efficiency. Choose LGA Car Service for a memorable experience that complements the luxury of your cruise. Whether you're sightseeing, transferring to Seattle, or extending your stay, we're here to make your time in Vancouver as enjoyable as possible.
+            LGA Car Service is dedicated to providing exceptional service for cruise passengers visiting New York. From luxury vehicles to professional drivers, we prioritize safety, comfort, and efficiency. Choose LGA Car Service for a memorable experience that complements the luxury of your cruise. Whether you're sightseeing, transferring to Seattle, or extending your stay, we're here to make your time in New York as enjoyable as possible.
           </p>
           
           <p className="text-gray-600 leading-relaxed">
