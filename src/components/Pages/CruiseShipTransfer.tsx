@@ -198,7 +198,7 @@ const CruiseShipTransfer = () => {
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-8"></div>
           
           <p className="text-gray-600 leading-relaxed text-center mb-12 max-w-4xl mx-auto">
-            Experience personalized sightseeing tours crafted around your interests and schedule. From lively markets to peaceful parks, we'll guide you through Vancouver's top attractions. Enjoy local city highlights, explore the North Shore with stops like Capilano Suspension Bridge and Grouse Mountain, or take a scenic drive to Whistler or a full-day adventure to Victoria.
+            Experience personalized sightseeing tours crafted around your interests and schedule. From lively markets to peaceful parks, we'll guide you through New York top attractions. Enjoy local city highlights, explore the North Shore with stops like Capilano Suspension Bridge and Grouse Mountain, or take a scenic drive to Whistler or a full-day adventure to Victoria.
           </p>
 
           {/* Pre/Post Cruise Adventure */}
@@ -229,13 +229,13 @@ const CruiseShipTransfer = () => {
             <div className="text-center">
               <h4 className="text-2xl font-bold text-gray-900 mb-4">Gastown</h4>
               <p className="text-gray-600 leading-relaxed">
-                Dive into Vancouver's history in Gastown, home to cobblestone streets, Victorian architecture, and the famous steam-powered clock. It's the perfect blend of history and charm.
+                Dive into New York history in Gastown, home to cobblestone streets, Victorian architecture, and the famous steam-powered clock. It's the perfect blend of history and charm.
               </p>
             </div>
             <div className="text-center">
               <h4 className="text-2xl font-bold text-gray-900 mb-4">Robson Street</h4>
               <p className="text-gray-600 leading-relaxed">
-                Known for upscale shopping and trendy eateries, Robson Street is Vancouver's premier shopping destination. With a private limo, shop to your heart's content without worrying about carrying your bags around town.
+                Known for upscale shopping and trendy eateries, Robson Street is New York premier shopping destination. With a private limo, shop to your heart's content without worrying about carrying your bags around town.
               </p>
             </div>
           </div>

@@ -88,7 +88,7 @@ const SightseeingTours = () => {
             Our local experts know Vancouver inside and out, and they're eager to make sure you get the most out of your visit. Whether you're a first-time visitor or a local looking for a fresh perspective, our tours are tailored for you. Allow us to be your partner and you'll have the freedom to explore, take stunning photos, and immerse yourself in the city's incredible sights.
           </p>
           <p className="text-lg text-gray-600 leading-relaxed mt-6 font-medium">
-            So, why not join us on an adventure that combines beauty, comfort, and the simple joy of experiencing Vancouver's beauty?
+            So, why not join us on an adventure that combines beauty, comfort, and the simple joy of experiencing New York beauty?
           </p>
         </div>
       </section>
@@ -208,7 +208,7 @@ const SightseeingTours = () => {
                 Then, explore the innovative exhibits at <strong className="text-gray-900">False Creek's Science World</strong>, where science comes to life. We'll also visit the bustling streets of <strong className="text-gray-900">Chinatown</strong>, rich in culture and tradition, before wrapping up in <strong className="text-gray-900">Gastown</strong>, the historic heart of Vancouver known for its cobblestone streets and the famous Steam Clock.
               </p>
               <p>
-                This tour offers a comprehensive view of Vancouver's charm and diversity, all from the comfort of a luxury vehicle.
+                This tour offers a comprehensive view of New York charm and diversity, all from the comfort of a luxury vehicle.
               </p>
             </div>
           </div>

@@ -9,7 +9,7 @@ const ExperienceSection = () => {
           <div>
             <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-blue-900 leading-tight mb-6">
               Experience<br />
-              Vancouver's<br />
+              New York<br />
               Finest<br />
               Chauffeur<br />
               Service
@@ -60,7 +60,7 @@ const ExperienceSection = () => {
               <div className="mb-4">
                 <p className="text-lg font-semibold text-gray-900">200+ Five-Star Google Reviews</p>
                 <p className="text-sm text-gray-600 mt-1">
-                  Vancouver's Top Rated & Trusted Limo Company
+                  New York Top Rated & Trusted Limo Company
                 </p>
               </div>
               
