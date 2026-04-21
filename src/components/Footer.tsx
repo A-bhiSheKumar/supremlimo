@@ -64,20 +64,11 @@ const Footer = () => {
                 <p className="text-gray-400 text-xs">
                   Dispatch 24/7 ( Text or Call )
                 </p>
-                <p className="text-white">(360) 318-7171</p>
+                <p className="text-white">+1 877 8771779</p>
               </div>
             </div>
 
-            {/* Toll */}
-            <div className="flex items-start gap-4">
-              <div className="bg-black p-2 rounded-full">
-                <Phone size={16} />
-              </div>
-              <div>
-                <p className="text-gray-400 text-xs">Toll Free Number</p>
-                <p className="text-white">(866) 447-7171</p>
-              </div>
-            </div>
+            
 
             {/* Email */}
             <div className="flex items-start gap-4">
@@ -86,7 +77,7 @@ const Footer = () => {
               </div>
               <div>
                 <p className="text-gray-400 text-xs">Email</p>
-                <p className="text-white">info@lgacarservice.ca</p>
+                <p className="text-white">reservations@lgacarservice.ca</p>
               </div>
             </div>
 

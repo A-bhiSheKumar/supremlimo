@@ -28,6 +28,7 @@ import Philadelphia from "./components/Pages/cities/Philadelphia";
 import Boston from "./components/Pages/cities/Boston";
 import WashingtonDC from "./components/Pages/cities/WashingtonDC";
 import Baltimore from "./components/Pages/cities/Baltimore";
+import ContactUs from "./components/Contactus";
 
 function Home() {
   return (
@@ -126,7 +127,9 @@ function App() {
             <Route path="/cities/baltimore"
             element={<Baltimore/>}
             />
+            <Route path="/contact-us" element={<ContactUs />} />
           </Routes>
+          
         </main>
 
         <Footer />

@@ -103,9 +103,13 @@ const Navbar = () => {
             </div>
 
             {/* Contact Info */}
-            <a href="mailto:info@supremelimo.ca" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="mailto:reservations@lgacarservice.com" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
               <Mail size={16} className="mr-2" />
-              info@supremelimo.ca
+              reservations@lgacarservice.com
+            </a>
+              <a href="/contact-us" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
+              {/* <Phone size={16} className="mr-2" /> */}
+              Contact Us
             </a>
             <a href="tel:+1-800-000-0000" className="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
               <Phone size={16} className="mr-2" />

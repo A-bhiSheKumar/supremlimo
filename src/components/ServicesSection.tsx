@@ -3,14 +3,14 @@ import image from '../assets/banner1.jpg';
 const ServicesSection = () => {
   const services = [
     { title: 'Worldwide Airport Transfer Service', href: '/services/airport-transfer', image: image },
-    { title: 'New York Airport Car & Limo Service', href: '/services/whistler-transfer', image: 'https://images.unsplash.com/photo-1551524559-8af4e6624178?w=600&h=400&fit=crop' },
-    { title: 'NYC Car Service & Limo Service', href: '/services/cruise-ship-transfer', image: 'https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=600&h=400&fit=crop' },
-    { title: 'Family Car Service With Car Seats', href: '/services/sightseeing-tours', image: 'https://images.unsplash.com/photo-1544148103-0773bf10d330?w=600&h=400&fit=crop' },
-    { title: 'Hourly Car Service & Limo Service', href: '/services/hourly-services', image: 'https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=600&h=400&fit=crop' },
-    { title: 'Long-Distance & Out-Of-Town Car Service', href: '/services/long-distance-transfer', image: 'https://images.unsplash.com/photo-1563720223185-11003d516935?w=600&h=400&fit=crop' },
-    { title: 'Corporate Car Service & Limo Service', href: '/services/corporate-vip-travel', image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop' },
-    { title: 'Private Aviation & FBO Car Service', href: '/services/funeral-transportation-limo-services', image: 'https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&h=400&fit=crop' },
-    { title: 'Group Transportation Service For Schools & Universities', href: '/services/travel-to-seattle', image: 'https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=400&fit=crop' },
+    { title: 'New York Airport Car & Limo Service', href: '/services/whistler-transfer', image: 'https://images.unsplash.com/photo-1658942445272-ef6bb53bd436?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+    { title: 'NYC Car Service & Limo Service', href: '/services/cruise-ship-transfer', image: 'https://images.unsplash.com/photo-1619767886558-efdc259cde1a?q=80&w=2671&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+    { title: 'Family Car Service With Car Seats', href: '/services/sightseeing-tours', image: 'https://images.unsplash.com/photo-1675923759360-348b03df0d3e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fHNlZGFufGVufDB8fDB8fHww' },
+    { title: 'Hourly Car Service & Limo Service', href: '/services/hourly-services', image: 'https://images.unsplash.com/photo-1705908748578-34fd1e9a033c?q=80&w=2717&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+    { title: 'Long-Distance & Out-Of-Town Car Service', href: '/services/long-distance-transfer', image: 'https://images.unsplash.com/photo-1662832245207-e4e52c3b713e?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+    { title: 'Corporate Car Service & Limo Service', href: '/services/corporate-vip-travel', image: 'https://images.unsplash.com/photo-1620547316190-289b3899e010?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fGNhcnMlMjBzdXZ8ZW58MHx8MHx8fDA%3D' },
+    { title: 'Private Aviation & FBO Car Service', href: '/services/funeral-transportation-limo-services', image: 'https://images.unsplash.com/photo-1615850271535-005a8777e22d?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGNhcnMlMjBzdXZ8ZW58MHx8MHx8fDA%3D' },
+    { title: 'Group Transportation Service For Schools & Universities', href: '/services/travel-to-seattle', image: 'https://images.unsplash.com/photo-1760486569714-1eef90e634f4?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhcnMlMjBzdXZ8ZW58MHx8MHx8fDA%3D' },
   ];
 
   return (

@@ -40,7 +40,7 @@ const faqData = [
   {
     question: "How Do I Contact You For Urgent Assistance?",
     answer:
-      "You can reach our dispatch team 24/7 by phone at +1 (360) 318-7171, by email at info@supremelimo.ca, or directly via WhatsApp for instant support.",
+      "You can reach our dispatch team 24/7 by phone at +1 (360) 318-7171, by email at reservations@lgacarservice.com, or directly via WhatsApp for instant support.",
   },
 ];
 

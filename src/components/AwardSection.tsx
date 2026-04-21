@@ -52,7 +52,7 @@ const AwardSection = () => {
           {/* RIGHT - Award Badge */}
           <div className="flex justify-center lg:justify-end">
             <img
-              src="https://images.unsplash.com/photo-1514820720301-4c4790309f46?q=80&w=3432&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xmY_kgXhaWgz67d6e1ALkYOobu619iMkBQ&s"
               alt="Canadian Choice Award Winner 2025"
               className="w-[300px] lg:w-[380px] xl:w-[420px] object-contain"
             />
