@@ -33,9 +33,14 @@ const Footer = () => {
               of services tailored for your comfort and convenience
             </p>
 
-            <button className="border border-white px-6 py-3 w-fit text-sm hover:bg-white hover:text-black transition-all duration-300">
-              Book Your Ride Now
-            </button>
+            <a
+            href="/contact-us"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
+            Book Your Ride Now
+          </a>
+
+         
           </div>
         </div>
       </div>
@@ -64,7 +69,7 @@ const Footer = () => {
                 <p className="text-gray-400 text-xs">
                   Dispatch 24/7 ( Text or Call )
                 </p>
-                <p className="text-white">+1 877 8771779</p>
+                <p className="text-white">+1 877 877 1779</p>
               </div>
             </div>
 
@@ -202,9 +207,14 @@ const Footer = () => {
             ))}
           </ul>
 
-          <button className="bg-[#2f6fed] px-6 py-2 text-sm rounded hover:bg-blue-700 transition">
+                   <a
+            href="/contact-us"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
             Book Online
-          </button>
+          </a>
+
+          
         </div>
 
       </div>

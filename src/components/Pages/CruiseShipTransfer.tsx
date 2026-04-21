@@ -66,12 +66,19 @@ const CruiseShipTransfer = () => {
               LGA Car Services | Private Transfers | Chauffeur-Driven Door to Door Comfort
             </p>
             <div className="flex flex-wrap gap-4">
-              <button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded font-medium transition-all duration-300">
-                Book Online
-              </button>
-              <button className="bg-white hover:bg-gray-100 text-gray-900 px-8 py-3 rounded font-medium transition-all duration-300">
-                    Call Us
-              </button>
+                       <a
+            href="/contact-us"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
+            Book Online
+          </a>
+
+          <a
+            href="tel:+1877877179"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
+            Call Us
+          </a>
             </div>
           </div>
         </div>
@@ -342,9 +349,14 @@ const CruiseShipTransfer = () => {
             />
           </div>
           
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-            Book Your Cruise Transfer Today
-          </h2>
+          <a
+            href="/contact-us"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
+            Book Online
+          </a>
+
+         
           
           <p className="text-gray-600 leading-relaxed mb-8 flex flex-wrap items-center justify-center gap-x-4 gap-y-2">
             <span className="flex items-center gap-2">

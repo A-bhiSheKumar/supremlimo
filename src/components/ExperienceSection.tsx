@@ -14,30 +14,30 @@ const ExperienceSection = () => {
               Chauffeur<br />
               Service
             </h2>
-            
+
             <div className="space-y-4 text-gray-700 leading-relaxed">
               <p>
-                LGA Car Service is your premier choice for luxury transportation, 
+                LGA Car Service is your premier choice for luxury transportation,
                 private car service, and chauffeur-driven travel. Serving New York,{' '}
                 <a href="#" className="text-primary hover:underline">Calgary</a>,{' '}
-                <a href="#" className="text-primary hover:underline">Toronto</a>, Montreal, and beyond, 
+                <a href="#" className="text-primary hover:underline">Toronto</a>, Montreal, and beyond,
                 we are proud to deliver a perfect balance of comfort, style, and professionalism.
               </p>
-              
+
               <p>
-                Whether you need an executive chauffeur for a business meeting, a black car service, 
+                Whether you need an executive chauffeur for a business meeting, a black car service,
                 a limo for a special event, seamless multi-city corporate travel, or a reliable{' '}
-                <a href="#" className="text-primary hover:underline">airport transfer</a> in New York, 
+                <a href="#" className="text-primary hover:underline">airport transfer</a> in New York,
                 we are your trusted choice for clients who demand excellence.
               </p>
-              
+
               <p>
-                Our professional chauffeurs and limo drivers are trained to provide more than just a ride — 
+                Our professional chauffeurs and limo drivers are trained to provide more than just a ride —
                 they deliver a seamless, hassle-free, reliable, and unforgettable journey.
               </p>
-              
+
               <p>
-                Trust LGA Car Service to redefine chauffeur service in New York — where professionalism, 
+                Trust LGA Car Service to redefine chauffeur service in New York — where professionalism,
                 discretion, and five-star service come together to exceed your expectations.
               </p>
             </div>
@@ -49,26 +49,31 @@ const ExperienceSection = () => {
             <div className="absolute top-0 left-0 z-10 bg-white rounded-lg shadow-xl p-6 w-64 border border-gray-100">
               <div className="flex items-center justify-between mb-4">
                 <div className="text-sm font-serif italic text-gray-800">
-                  LGA<br/>CarService
+                  LGA<br />CarService
                 </div>
                 <div className="flex items-center text-blue-600">
                   <Star size={16} fill="currentColor" />
                   <span className="ml-1 text-sm font-medium">5/5</span>
                 </div>
               </div>
-              
+
               <div className="mb-4">
                 <p className="text-lg font-semibold text-gray-900">200+ Five-Star Google Reviews</p>
                 <p className="text-sm text-gray-600 mt-1">
                   New York Top Rated & Trusted Limo Company
                 </p>
               </div>
-              
+
               <p className="text-xs text-gray-500 mb-4">12 Years + Experience</p>
-              
-              <button className="w-full bg-primary text-white py-3 rounded-md font-medium hover:bg-primary-hover transition-colors">
+
+              <a
+                href="/contact-us"
+                className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+              >
                 Book Online
-              </button>
+              </a>
+
+
             </div>
 
             {/* Main Image */}

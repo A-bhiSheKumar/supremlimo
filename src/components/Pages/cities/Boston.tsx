@@ -21,12 +21,19 @@ const Boston = () => {
               Limousine Service | Private Transfers | Chauffeur-Driven Door to Door Comfort
             </p>
             <div className="flex flex-wrap gap-4">
-              <button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded font-medium transition-all duration-300">
-                Book Online
-              </button>
-              <button className="bg-white hover:bg-gray-100 text-gray-900 px-8 py-3 rounded font-medium transition-all duration-300">
-                    Call Us
-              </button>
+                       <a
+            href="/contact-us"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
+            Book Online
+          </a>
+
+          <a
+            href="tel:+1877877179"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
+            Call Us
+          </a>
             </div>
           </div>
         </div>

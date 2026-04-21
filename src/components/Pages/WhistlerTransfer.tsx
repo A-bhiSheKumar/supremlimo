@@ -27,13 +27,19 @@ const WhistlerTransfer = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
-              <button className="bg-white text-black px-6 py-3 rounded-md font-medium w-full sm:w-auto transition-all duration-300 hover:bg-gray-100">
-                Book Online
-              </button>
+                        <a
+            href="/contact-us"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
+            Book Online
+          </a>
 
-              <button className="border border-white text-white px-6 py-3 rounded-md font-medium w-full sm:w-auto transition-all duration-300 hover:bg-white hover:text-black">
-                    Call Us
-              </button>
+          <a
+            href="tel:+1877877179"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
+            Call Us
+          </a>
             </div>
           </div>
         </div>

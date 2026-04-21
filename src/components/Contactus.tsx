@@ -212,7 +212,7 @@ const ContactQuoteSection: React.FC = () => {
                 <div>
                   <p className="font-semibold text-gray-900">Phone</p>
                   <a href="tel:+18778771779" className="text-gray-700 hover:text-blue-600 transition-colors">
-                    +1 877 8771779
+                    +1 877 877 1779
                   </a>
                 </div>
               </div>

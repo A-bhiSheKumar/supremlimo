@@ -23,7 +23,7 @@ const Hero = () => {
         <h2 className="text-white text-3xl md:text-5xl lg:text-[3.5rem] font-bold mb-8">
           Service
         </h2>
-        
+
         {/* Decorative Blue Lines */}
         <div className="flex items-center space-x-4 mb-10">
           <div className="w-20 md:w-32 h-0.5 bg-blue-500" />
@@ -35,12 +35,19 @@ const Hero = () => {
 
         {/* CTA Buttons */}
         <div className="flex flex-col sm:flex-row gap-4">
-          <button className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3.5 rounded text-base font-medium transition-colors min-w-[160px]">
+          <a
+            href="/contact-us"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
             Book Online
-          </button>
-          <button className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3.5 rounded text-base font-medium transition-colors min-w-[160px]">
-           Call Us
-          </button>
+          </a>
+
+          <a
+            href="tel:+1877877179"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
+            Call Us
+          </a>
         </div>
       </div>
     </section>

@@ -54,13 +54,19 @@ const CorporateVipTravel = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
-              <button className="bg-white text-black px-6 py-3 rounded-md font-medium w-full sm:w-auto transition-all duration-300 hover:bg-gray-100">
-                Book Online
-              </button>
+                       <a
+            href="/contact-us"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
+            Book Online
+          </a>
 
-              <button className="border border-white text-white px-6 py-3 rounded-md font-medium w-full sm:w-auto transition-all duration-300 hover:bg-white hover:text-black">
-                    Call Us
-              </button>
+          <a
+            href="tel:+1877877179"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
+            Call Us
+          </a>
             </div>
           </div>
         </div>
@@ -131,9 +137,14 @@ const CorporateVipTravel = () => {
             <div className="absolute bottom-0 left-0 right-0 p-8 text-center text-white">
               <h3 className="text-3xl font-bold mb-3">{vehicleSlides[currentSlide].title}</h3>
               <p className="text-white/80 mb-6 max-w-md mx-auto">{vehicleSlides[currentSlide].description}</p>
-              <button className="border-2 border-white text-white px-8 py-3 rounded-md font-medium hover:bg-white hover:text-black transition-all duration-300">
-                Book Online
-              </button>
+                       <a
+            href="/contact-us"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
+            Book Online
+          </a>
+
+        
             </div>
 
             {/* Slide Indicators */}
@@ -161,9 +172,14 @@ const CorporateVipTravel = () => {
               <p>
                 Corporate VIP travel is about more than simply luxury; it's also about efficiency. We maximize your journey time and arrive at your location utilizing the most efficient routes thanks to dedicated routes, skilled drivers, and cutting-edge GPS technology. There will be no more traffic-related stress or unexpected detours.
               </p>
-              <button className="bg-blue-600 text-white px-8 py-3 rounded-md font-medium hover:bg-blue-700 transition-all duration-300 mt-4">
-                Book Online
-              </button>
+                       <a
+            href="/contact-us"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-10 py-3 rounded-full font-medium transition-colors min-w-[160px] inline-block text-center"
+          >
+            Book Online
+          </a>
+
+        
             </div>
           </div>
         </div>
